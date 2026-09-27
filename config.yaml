@@ -1,0 +1,36 @@
+# YouTube Daily Digest — categories & fetch rules
+# API key: set YOUTUBE_API_KEY env var (never commit the key)
+
+# Only include videos published within this many days (viewCount ranking)
+published_within_days: 30
+
+# Results per category
+max_results_per_category: 15
+
+# Output directory (GitHub Pages serves from docs/)
+output_dir: docs
+
+categories:
+  - id: ai
+    title: AI
+    # Multiple queries are merged & deduped, then top by views kept
+    queries:
+      - AI agent
+      - ChatGPT tutorial
+      - Claude AI
+      - LLM tools
+
+  - id: vpn
+    title: VPN
+    queries:
+      - VPN review
+      - best VPN
+      - VPN 推荐
+
+  - id: cloud
+    title: 云服务器
+    queries:
+      - VPS review
+      - cloud server
+      - DigitalOcean tutorial
+      - AWS EC2 beginner

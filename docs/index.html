@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>YouTube 日报索引</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --text: #e7ecf3;
+      --muted: #8b9bb4;
+      --accent: #3d9cf0;
+      --border: #2a3548;
+      --ai: #5b8def;
+      --vpn: #3ecf8e;
+      --cloud: #f0a030;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { max-width: 960px; margin: 0 auto; padding: 24px 16px 64px; }
+    header { margin-bottom: 28px; }
+    header h1 { font-size: 1.6rem; margin: 0 0 8px; font-weight: 650; }
+    header .meta { color: var(--muted); font-size: 0.95rem; }
+    nav.links { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 14px; }
+    nav.links a {
+      padding: 6px 12px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 0.9rem;
+    }
+    section { margin-top: 36px; }
+    section h2 {
+      font-size: 1.25rem;
+      margin: 0 0 14px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--border);
+    }
+    section.ai h2 { border-color: var(--ai); }
+    section.vpn h2 { border-color: var(--vpn); }
+    section.cloud h2 { border-color: var(--cloud); }
+    .card {
+      display: grid;
+      grid-template-columns: 168px 1fr;
+      gap: 14px;
+      padding: 14px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .card:last-child { border-bottom: none; }
+    .thumb {
+      width: 168px;
+      height: 94px;
+      object-fit: cover;
+      border-radius: 6px;
+      background: var(--surface);
+    }
+    .rank {
+      display: inline-block;
+      min-width: 1.6em;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+      font-weight: 600;
+      margin-right: 4px;
+    }
+    .title { font-size: 1.02rem; font-weight: 600; color: var(--text); }
+    .title:hover { color: var(--accent); }
+    .info { color: var(--muted); font-size: 0.85rem; margin-top: 6px; }
+    .empty { color: var(--muted); padding: 12px 0; }
+    footer { margin-top: 48px; color: var(--muted); font-size: 0.85rem; }
+    @media (max-width: 560px) {
+      .card { grid-template-columns: 1fr; }
+      .thumb { width: 100%; height: auto; aspect-ratio: 16/9; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>YouTube 日报索引</h1>
+      <div class="meta">每日 AI / VPN / 云服务器 人气视频快链</div>
+      <nav class="links">
+        <a href="index.html">总索引</a>
+        <a href="latest.html">最新一期</a>
+      </nav>
+    </header>
+    <p><a href="latest.html"><strong>打开最新一期 →</strong></a>（2026-09-27）</p>
+<section><h2>历史日报</h2>
+<p><a href="2026-09-27.html">2026-09-27</a></p>
+</section>
+    <footer>由 YouTube Data API 自动生成 · 仅作个人浏览参考</footer>
+  </div>
+</body>
+</html>
