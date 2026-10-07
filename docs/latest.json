@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T03:39:44.846778+00:00",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T03:06:41.501061+00:00",
   "published_within_days": 30,
   "categories": {
     "ai": {
@@ -11,7 +11,7 @@
           "title": "What Snapdragon’s New NPU Means for AI Agents",
           "channel": "Maxwell Weinbach (Max)",
           "published_at": "2026-09-10",
-          "views": 18521271,
+          "views": 18521297,
           "duration": "1:31",
           "thumbnail": "https://i.ytimg.com/vi/x4ktkeNbliE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=x4ktkeNbliE"
@@ -21,7 +21,7 @@
           "title": "Ex-Anthropic insider tells CNN how AI could kill all humans by 2030",
           "channel": "CNN",
           "published_at": "2026-09-10",
-          "views": 9888030,
+          "views": 9917690,
           "duration": "9:27",
           "thumbnail": "https://i.ytimg.com/vi/i30jVPqQeOM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=i30jVPqQeOM"
@@ -31,7 +31,7 @@
           "title": "I Tried The LAZIEST Way to Make Money With AI",
           "channel": "Mark Tilbury",
           "published_at": "2026-09-21",
-          "views": 5275479,
+          "views": 5439170,
           "duration": "33:19",
           "thumbnail": "https://i.ytimg.com/vi/LlhTEttKcwQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=LlhTEttKcwQ"
@@ -41,7 +41,7 @@
           "title": "claude penggendong handal 🥶#mobilelegends #claude #kabuki",
           "channel": "xpmagang",
           "published_at": "2026-09-09",
-          "views": 4626298,
+          "views": 4644418,
           "duration": "2:57",
           "thumbnail": "https://i.ytimg.com/vi/4sdE8MfSIk8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4sdE8MfSIk8"
@@ -51,17 +51,27 @@
           "title": "GPT 6 Astra - End of Developers?",
           "channel": "CodeWithHarry",
           "published_at": "2026-09-09",
-          "views": 3837703,
+          "views": 3844351,
           "duration": "21:54",
           "thumbnail": "https://i.ytimg.com/vi/Pa2G8RzbWZ4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Pa2G8RzbWZ4"
+        },
+        {
+          "id": "2gLHiQsbI80",
+          "title": "Agentic AI with Java : Live Cohort",
+          "channel": "Telusko",
+          "published_at": "2026-09-19",
+          "views": 3459683,
+          "duration": "0:57",
+          "thumbnail": "https://i.ytimg.com/vi/2gLHiQsbI80/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2gLHiQsbI80"
         },
         {
           "id": "vZrJIXAi0JM",
           "title": "Makyajımı ChatGPT ile yapıyorum😭 *reklam yoktur #makyajvideoları #makeupchallenge #chatgpt",
           "channel": "hazal💘",
           "published_at": "2026-09-13",
-          "views": 2509069,
+          "views": 2642182,
           "duration": "2:25",
           "thumbnail": "https://i.ytimg.com/vi/vZrJIXAi0JM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vZrJIXAi0JM"
@@ -71,17 +81,27 @@
           "title": "Anthropic CEO tells CNN how AI 'agent swarms' could threaten humanity",
           "channel": "CNN",
           "published_at": "2026-09-15",
-          "views": 2101905,
+          "views": 2109468,
           "duration": "8:07",
           "thumbnail": "https://i.ytimg.com/vi/_JbDZ2Rj2SA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=_JbDZ2Rj2SA"
+        },
+        {
+          "id": "KxHAyo97cwI",
+          "title": "GPT 6 Astra Vs. Claude Opus 5.5 #ai #gpt6 #claude #meme #funny",
+          "channel": "Jaden Williams",
+          "published_at": "2026-09-24",
+          "views": 1868624,
+          "duration": "0:52",
+          "thumbnail": "https://i.ytimg.com/vi/KxHAyo97cwI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KxHAyo97cwI"
         },
         {
           "id": "u8d6lBNpeOY",
           "title": "Kalo lu pilih apa nih? #chatgpt #gemini #grokai #claudeai #metaai",
           "channel": "Akbar Alatas Official",
           "published_at": "2026-09-22",
-          "views": 1722341,
+          "views": 1731398,
           "duration": "2:09",
           "thumbnail": "https://i.ytimg.com/vi/u8d6lBNpeOY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=u8d6lBNpeOY"
@@ -91,7 +111,7 @@
           "title": "Trending 80s Look Photo Prompt 🔥😍 | Viral 1980s Retro Style Ai Photo Editing | Chatgpt Prompt",
           "channel": "Harish Tech",
           "published_at": "2026-09-09",
-          "views": 1705586,
+          "views": 1706708,
           "duration": "0:22",
           "thumbnail": "https://i.ytimg.com/vi/vPBIe7Omn4s/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vPBIe7Omn4s"
@@ -101,7 +121,7 @@
           "title": "80s Photo Trend 🤯 New Instagram Trend 🚨 1980 photos with AI #chatgpt #ai #80s",
           "channel": "Raj Photo Editing and Much More",
           "published_at": "2026-09-09",
-          "views": 1684916,
+          "views": 1685611,
           "duration": "0:33",
           "thumbnail": "https://i.ytimg.com/vi/prNgebOBzRY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=prNgebOBzRY"
@@ -111,50 +131,30 @@
           "title": "This AI Agent Built A whole Browser In 7 Days",
           "channel": "Brainy Byte",
           "published_at": "2026-09-07",
-          "views": 1610852,
+          "views": 1615955,
           "duration": "0:21",
           "thumbnail": "https://i.ytimg.com/vi/FvnVd1g8sbE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=FvnVd1g8sbE"
+        },
+        {
+          "id": "9DHbgHB_aq4",
+          "title": "OpenAI model declared itself 'freed' from human control",
+          "channel": "CNN",
+          "published_at": "2026-09-17",
+          "views": 1608854,
+          "duration": "9:01",
+          "thumbnail": "https://i.ytimg.com/vi/9DHbgHB_aq4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9DHbgHB_aq4"
         },
         {
           "id": "hkbv4ILw_II",
           "title": "OpenAI Bots Hacked Hugging Face Without Human Input: Former Researcher Details the Incident",
           "channel": "JRE Clips",
           "published_at": "2026-09-09",
-          "views": 1586194,
+          "views": 1594316,
           "duration": "17:21",
           "thumbnail": "https://i.ytimg.com/vi/hkbv4ILw_II/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=hkbv4ILw_II"
-        },
-        {
-          "id": "Y5rSSvXfL4g",
-          "title": "5 open source tools that replaced my $320/mo AI stack...",
-          "channel": "Fireship",
-          "published_at": "2026-09-07",
-          "views": 1261371,
-          "duration": "5:26",
-          "thumbnail": "https://i.ytimg.com/vi/Y5rSSvXfL4g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Y5rSSvXfL4g"
-        },
-        {
-          "id": "7RVf25Rg0Mc",
-          "title": "you need to try Paperclip RIGHT NOW!",
-          "channel": "NetworkChuck",
-          "published_at": "2026-09-24",
-          "views": 1216841,
-          "duration": "28:47",
-          "thumbnail": "https://i.ytimg.com/vi/7RVf25Rg0Mc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7RVf25Rg0Mc"
-        },
-        {
-          "id": "m5yrQMnc_jQ",
-          "title": "AI kill switch won't work in the long run: 'Godfather' of AI",
-          "channel": "CNN",
-          "published_at": "2026-09-17",
-          "views": 1201929,
-          "duration": "10:41",
-          "thumbnail": "https://i.ytimg.com/vi/m5yrQMnc_jQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=m5yrQMnc_jQ"
         }
       ]
     },
@@ -166,7 +166,7 @@
           "title": "Mediplus toothpaste review in Bangla.  ",
           "channel": "Tech & Variety 0.3",
           "published_at": "2026-09-10",
-          "views": 577906,
+          "views": 577954,
           "duration": "0:19",
           "thumbnail": "https://i.ytimg.com/vi/XzrW1fashHI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=XzrW1fashHI"
@@ -176,7 +176,7 @@
           "title": "#illustration#art #pov#digitalart#procreate#tattoo#DomVPN",
           "channel": "adelabacova",
           "published_at": "2026-09-17",
-          "views": 310920,
+          "views": 316260,
           "duration": "1:18",
           "thumbnail": "https://i.ytimg.com/vi/aEDCZsV-F3I/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=aEDCZsV-F3I"
@@ -186,7 +186,7 @@
           "title": "The Best FireStick Apps That Amazon Doesn't Want You To Know!",
           "channel": "Electrical MD",
           "published_at": "2026-09-18",
-          "views": 209178,
+          "views": 211396,
           "duration": "18:10",
           "thumbnail": "https://i.ytimg.com/vi/HHJJ2T3-MOU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=HHJJ2T3-MOU"
@@ -196,7 +196,7 @@
           "title": "I Ditched My Phone's SIM Card for a 5G Hotspot",
           "channel": "Business Reform",
           "published_at": "2026-09-21",
-          "views": 193716,
+          "views": 195176,
           "duration": "11:13",
           "thumbnail": "https://i.ytimg.com/vi/hQZaGJ52S9A/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=hQZaGJ52S9A"
@@ -206,7 +206,7 @@
           "title": "Qwen3.8-27B 正式开源！越狱无审查！最低 8GB 显存就能跑，媲美顶级闭源模型？本地部署实测 | 零度解说",
           "channel": "零度解说",
           "published_at": "2026-09-19",
-          "views": 115810,
+          "views": 117156,
           "duration": "11:22",
           "thumbnail": "https://i.ytimg.com/vi/QSObR7YcmIo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=QSObR7YcmIo"
@@ -216,7 +216,7 @@
           "title": "赌城为何没有防火墙？为何我不推荐澳门的银行？｜港澳银行｜翻墙｜VPN｜节点｜科学上网｜聊点不同E76",
           "channel": "KK日常折腾",
           "published_at": "2026-09-11",
-          "views": 105167,
+          "views": 105779,
           "duration": "17:52",
           "thumbnail": "https://i.ytimg.com/vi/3E0UZIimIJU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=3E0UZIimIJU"
@@ -226,7 +226,7 @@
           "title": "Конец VPN на российском хостинге: что Минцифры спрятало в антифрод-законе?",
           "channel": "Ilya Rublev",
           "published_at": "2026-10-01",
-          "views": 102803,
+          "views": 104617,
           "duration": "11:19",
           "thumbnail": "https://i.ytimg.com/vi/nanjXtjdvG0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=nanjXtjdvG0"
@@ -236,7 +236,7 @@
           "title": "苹果手机免费翻墙方法，操作简单，永久免费！iphone vpn翻墙客户端科学上网软件，ipad,ios翻墙客户端工具",
           "channel": "科技分享",
           "published_at": "2026-09-11",
-          "views": 88063,
+          "views": 89283,
           "duration": "4:43",
           "thumbnail": "https://i.ytimg.com/vi/fsmfi3cS73A/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=fsmfi3cS73A"
@@ -246,7 +246,7 @@
           "title": "CapCut Pro Without VPN 😱 | Latest Method 2026 #shorts",
           "channel": "Dhruv Techboy",
           "published_at": "2026-09-08",
-          "views": 69996,
+          "views": 71238,
           "duration": "0:18",
           "thumbnail": "https://i.ytimg.com/vi/upNT7vd8w54/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=upNT7vd8w54"
@@ -256,37 +256,37 @@
           "title": "Лучший VPN -  @CyberPUHbot в Телеграме #pubgmobile #пубгэмулятор #пабг #pubg #pubgm #пубг #shifuwoe",
           "channel": "ShifuWOE",
           "published_at": "2026-09-13",
-          "views": 61183,
+          "views": 61368,
           "duration": "1:03",
           "thumbnail": "https://i.ytimg.com/vi/ezYZB02aI1w/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ezYZB02aI1w"
-        },
-        {
-          "id": "ppgddmuKu6Y",
-          "title": "Aloha Browser में ऐसा क्या है?  VPN, Ad Block और Download सब एक ही App में!",
-          "channel": "Bijay Tech Skills",
-          "published_at": "2026-09-09",
-          "views": 54567,
-          "duration": "10:21",
-          "thumbnail": "https://i.ytimg.com/vi/ppgddmuKu6Y/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ppgddmuKu6Y"
         },
         {
           "id": "Ilbqc2003LM",
           "title": "Лучшее из подкаста «Путь Воина» №309 #тарасов #гончаров #интервью #путьвоина #пвподкаст #ПВ",
           "channel": "ПВ ПОДКАСТ",
           "published_at": "2026-10-03",
-          "views": 53727,
+          "views": 58511,
           "duration": "0:19",
           "thumbnail": "https://i.ytimg.com/vi/Ilbqc2003LM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Ilbqc2003LM"
+        },
+        {
+          "id": "ppgddmuKu6Y",
+          "title": "Aloha Browser में ऐसा क्या है?  VPN, Ad Block और Download सब एक ही App में!",
+          "channel": "Bijay Tech Skills",
+          "published_at": "2026-09-09",
+          "views": 54706,
+          "duration": "10:21",
+          "thumbnail": "https://i.ytimg.com/vi/ppgddmuKu6Y/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ppgddmuKu6Y"
         },
         {
           "id": "U879B0kDmuE",
           "title": "【2026免费VPN】科学上网永久免费 VPN！高速的翻墙体验，免费不比付费差！纯净无广告，4K稳定，一键连接，内置多国节点，让你轻松愉快的访问 YouTube！",
           "channel": "梦歌 Channel of Dream Song",
           "published_at": "2026-09-12",
-          "views": 53423,
+          "views": 54371,
           "duration": "8:08",
           "thumbnail": "https://i.ytimg.com/vi/U879B0kDmuE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=U879B0kDmuE"
@@ -296,7 +296,7 @@
           "title": "THE *BEST* CLASS TO USE IN WARZONE 👑",
           "channel": "Yourtox",
           "published_at": "2026-09-21",
-          "views": 48990,
+          "views": 49107,
           "duration": "0:10",
           "thumbnail": "https://i.ytimg.com/vi/aCymPXXQzZ4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=aCymPXXQzZ4"
@@ -306,7 +306,7 @@
           "title": "免费无限注册，超大流量，火爆全网！美国公益组织免费VPN深度实测：免注册匿名+不限制设备，白天1080P极速流畅，到底能不能看4K？能切换地区吗？",
           "channel": "穷人工作室Poor Studio",
           "published_at": "2026-09-18",
-          "views": 44118,
+          "views": 44515,
           "duration": "8:03",
           "thumbnail": "https://i.ytimg.com/vi/vG4EBl9lZuA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vG4EBl9lZuA"
@@ -321,7 +321,7 @@
           "title": "Extend FastMCP servers with AI",
           "channel": "Google Cloud APAC",
           "published_at": "2026-09-10",
-          "views": 642322,
+          "views": 689580,
           "duration": "12:33",
           "thumbnail": "https://i.ytimg.com/vi/jNU_7WSidB4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=jNU_7WSidB4"
@@ -331,7 +331,7 @@
           "title": "I Go To The Cloud.",
           "channel": "Kai Lentit",
           "published_at": "2026-09-09",
-          "views": 591024,
+          "views": 592203,
           "duration": "17:49",
           "thumbnail": "https://i.ytimg.com/vi/i5GTwBTCQJI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=i5GTwBTCQJI"
@@ -341,37 +341,37 @@
           "title": "Xbox Cloud Gaming is Now FREE With ADs -  SERIOUSLY !?😱",
           "channel": "AM BOIZ",
           "published_at": "2026-09-11",
-          "views": 374606,
+          "views": 378414,
           "duration": "14:05",
           "thumbnail": "https://i.ytimg.com/vi/9viz1DOVYN0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9viz1DOVYN0"
-        },
-        {
-          "id": "xwGCh7YcFHI",
-          "title": "Building smart foundations",
-          "channel": "BBC StoryWorks",
-          "published_at": "2026-09-10",
-          "views": 240491,
-          "duration": "1:34",
-          "thumbnail": "https://i.ytimg.com/vi/xwGCh7YcFHI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xwGCh7YcFHI"
         },
         {
           "id": "Lj4fX4TVKw0",
           "title": "Don't Buy a GPU: Build This 32GB Free AI Server Instead",
           "channel": "DevZoneX",
           "published_at": "2026-09-22",
-          "views": 237747,
+          "views": 242115,
           "duration": "18:22",
           "thumbnail": "https://i.ytimg.com/vi/Lj4fX4TVKw0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Lj4fX4TVKw0"
+        },
+        {
+          "id": "xwGCh7YcFHI",
+          "title": "Building smart foundations",
+          "channel": "BBC StoryWorks",
+          "published_at": "2026-09-10",
+          "views": 240492,
+          "duration": "1:34",
+          "thumbnail": "https://i.ytimg.com/vi/xwGCh7YcFHI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xwGCh7YcFHI"
         },
         {
           "id": "HVGQULc853Y",
           "title": "TUTORIAL PASANG AI AGENT MURAH MERIAH (HERMES AGENT + 9ROUTER)",
           "channel": "David Alfa Sunarna",
           "published_at": "2026-09-18",
-          "views": 225426,
+          "views": 231440,
           "duration": "35:02",
           "thumbnail": "https://i.ytimg.com/vi/HVGQULc853Y/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=HVGQULc853Y"
@@ -381,7 +381,7 @@
           "title": "FREE 32GB VRAM Server for Running AI Models Locally",
           "channel": "AI Tech",
           "published_at": "2026-09-16",
-          "views": 137474,
+          "views": 137977,
           "duration": "6:30",
           "thumbnail": "https://i.ytimg.com/vi/tV4VJpnXbPs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=tV4VJpnXbPs"
@@ -391,27 +391,17 @@
           "title": "FREE Server for Local AI Models (32GB VRAM)",
           "channel": "STUD TY",
           "published_at": "2026-09-11",
-          "views": 125563,
+          "views": 126004,
           "duration": "10:12",
           "thumbnail": "https://i.ytimg.com/vi/EkA4pqXgta0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=EkA4pqXgta0"
-        },
-        {
-          "id": "xv34-jfIQcM",
-          "title": "New Skylands Cloud Event ☁️ | How to get stars in updated First Sea Blox fruits! #bloxfruits",
-          "channel": "Secrets In Blox",
-          "published_at": "2026-09-06",
-          "views": 60994,
-          "duration": "1:03",
-          "thumbnail": "https://i.ytimg.com/vi/xv34-jfIQcM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xv34-jfIQcM"
         },
         {
           "id": "aBrrAqB1BMw",
           "title": "AI BISA JEBOL SERVER DENGAN MUDAH",
           "channel": "David Alfa Sunarna",
           "published_at": "2026-09-29",
-          "views": 60953,
+          "views": 62201,
           "duration": "17:15",
           "thumbnail": "https://i.ytimg.com/vi/aBrrAqB1BMw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=aBrrAqB1BMw"
@@ -421,7 +411,7 @@
           "title": "DeepSeek Harness + DeepSeek V4.1 Flash = Ultimate FREE Coding Setup",
           "channel": "Astro K Joseph",
           "published_at": "2026-09-11",
-          "views": 59974,
+          "views": 60485,
           "duration": "13:58",
           "thumbnail": "https://i.ytimg.com/vi/b3rlTdd_EZ0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=b3rlTdd_EZ0"
@@ -431,40 +421,50 @@
           "title": "LincStation E1 NAS Review – Powerful 4-Bay Home NAS Server!",
           "channel": "Tech Talk Tech",
           "published_at": "2026-10-01",
-          "views": 54953,
+          "views": 54969,
           "duration": "7:59",
           "thumbnail": "https://i.ytimg.com/vi/AWUO98i0Opw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=AWUO98i0Opw"
-        },
-        {
-          "id": "CXcomFYMBt4",
-          "title": "Đừng xài NAS thay cho cloud cá nhân (nếu bạn không rành)",
-          "channel": "Duy Luân Dễ Thương",
-          "published_at": "2026-10-01",
-          "views": 43752,
-          "duration": "12:22",
-          "thumbnail": "https://i.ytimg.com/vi/CXcomFYMBt4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CXcomFYMBt4"
-        },
-        {
-          "id": "eK1vpSeZFes",
-          "title": "70B AI Model, No GPU",
-          "channel": "TheVibeFounder | Bharat",
-          "published_at": "2026-09-26",
-          "views": 43460,
-          "duration": "0:45",
-          "thumbnail": "https://i.ytimg.com/vi/eK1vpSeZFes/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=eK1vpSeZFes"
         },
         {
           "id": "na28mhWU0Sg",
           "title": "ZimaOS 1.7 Showcase – Turn Any PC Into a Powerful Home Server",
           "channel": "TechMagnet",
           "published_at": "2026-09-30",
-          "views": 42906,
+          "views": 48347,
           "duration": "13:28",
           "thumbnail": "https://i.ytimg.com/vi/na28mhWU0Sg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=na28mhWU0Sg"
+        },
+        {
+          "id": "eK1vpSeZFes",
+          "title": "70B AI Model, No GPU",
+          "channel": "TheVibeFounder | Bharat",
+          "published_at": "2026-09-26",
+          "views": 43609,
+          "duration": "0:45",
+          "thumbnail": "https://i.ytimg.com/vi/eK1vpSeZFes/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=eK1vpSeZFes"
+        },
+        {
+          "id": "uruBiaxh64U",
+          "title": "Meta Muse 全面开放注册！小龙虾OpenClaw平替来了？扎克伯格重金打造的Muse实测 Meta Muse个人AI智能体注册教程 | 免费领10亿Token",
+          "channel": "搞机零距离",
+          "published_at": "2026-09-26",
+          "views": 41828,
+          "duration": "13:19",
+          "thumbnail": "https://i.ytimg.com/vi/uruBiaxh64U/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=uruBiaxh64U"
+        },
+        {
+          "id": "-A5nmZ5kUGo",
+          "title": "Try Cloudways VPS for FREE – 2 Methods",
+          "channel": "MR AIT",
+          "published_at": "2026-09-10",
+          "views": 37973,
+          "duration": "2:02",
+          "thumbnail": "https://i.ytimg.com/vi/-A5nmZ5kUGo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-A5nmZ5kUGo"
         }
       ]
     }
