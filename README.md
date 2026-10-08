@@ -73,7 +73,11 @@ git push -u origin main
 
 - `published_within_days`：时间窗口（默认 30）
 - `max_results_per_category`：每类条数（默认 15）
+- `exclude_shown_within_days`：排除近 N 天已展示过的视频（默认 14，避免日更重复）
+- `search_page_size`：每个关键词拉取候选数（默认 50）
 - `categories[].queries`：搜索关键词
+
+跨天去重记录保存在 `docs/history.json`（由 Actions 自动提交）。
 
 ## 安全提醒
 

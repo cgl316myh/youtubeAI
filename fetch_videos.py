@@ -6,6 +6,7 @@ from __future__ import annotations
 import html
 import json
 import os
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -20,6 +21,8 @@ CONFIG_PATH = ROOT / "config.yaml"
 TEMPLATE_PATH = ROOT / "templates" / "base.html"
 YOUTUBE_SEARCH = "https://www.googleapis.com/youtube/v3/search"
 YOUTUBE_VIDEOS = "https://www.googleapis.com/youtube/v3/videos"
+HISTORY_FILE = "history.json"
+SHANGHAI = timezone(timedelta(hours=8))
 
 
 def load_config() -> dict[str, Any]:
@@ -40,11 +43,21 @@ def published_after(days: int) -> str:
     return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def search_ids(key: str, query: str, after: str, page_size: int = 25) -> list[str]:
+def today_shanghai() -> str:
+    return datetime.now(SHANGHAI).strftime("%Y-%m-%d")
+
+
+def search_ids(
+    key: str,
+    query: str,
+    after: str,
+    page_size: int = 50,
+    order: str = "viewCount",
+) -> list[str]:
     params = {
         "part": "snippet",
         "type": "video",
-        "order": "viewCount",
+        "order": order,
         "q": query,
         "maxResults": min(page_size, 50),
         "publishedAfter": after,
@@ -139,29 +152,118 @@ def format_views(n: int) -> str:
     return str(n)
 
 
+def load_history(out_dir: Path) -> dict[str, list[str]]:
+    """Map date -> list of video ids previously shown."""
+    path = out_dir / HISTORY_FILE
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"[warn] bad history file: {e}", file=sys.stderr)
+        return {}
+    days = data.get("days", {})
+    if not isinstance(days, dict):
+        return {}
+    return {str(k): list(v) for k, v in days.items() if isinstance(v, list)}
+
+
+def prune_history(
+    history: dict[str, list[str]],
+    keep_days: int,
+    today: str,
+) -> dict[str, list[str]]:
+    cutoff = (
+        datetime.strptime(today, "%Y-%m-%d") - timedelta(days=keep_days)
+    ).strftime("%Y-%m-%d")
+    return {d: ids for d, ids in history.items() if d >= cutoff}
+
+
+def recently_shown_ids(
+    history: dict[str, list[str]],
+    exclude_within_days: int,
+    today: str,
+) -> set[str]:
+    if exclude_within_days <= 0:
+        return set()
+    cutoff = (
+        datetime.strptime(today, "%Y-%m-%d")
+        - timedelta(days=exclude_within_days)
+    ).strftime("%Y-%m-%d")
+    shown: set[str] = set()
+    for date_str, ids in history.items():
+        # Do not exclude today's previous run if re-running same day;
+        # only prior calendar days inside the window.
+        if cutoff <= date_str < today:
+            shown.update(ids)
+    return shown
+
+
+def save_history(
+    out_dir: Path,
+    history: dict[str, list[str]],
+    today: str,
+    video_ids: list[str],
+    keep_days: int,
+) -> None:
+    history = dict(history)
+    history[today] = video_ids
+    # Keep a bit longer than exclude window for debugging / rebuild
+    history = prune_history(history, max(keep_days, 60), today)
+    payload = {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "days": dict(sorted(history.items(), reverse=True)),
+    }
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / HISTORY_FILE).write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
 def collect_category(
     key: str,
     category: dict[str, Any],
     after: str,
     limit: int,
+    page_size: int,
+    exclude_ids: set[str],
 ) -> list[dict[str, Any]]:
     seen: set[str] = set()
     ordered_ids: list[str] = []
-    for q in category.get("queries", []):
-        try:
-            ids = search_ids(key, q, after)
-        except Exception as e:
-            print(f"[warn] search failed for {q!r}: {e}", file=sys.stderr)
-            continue
-        for vid in ids:
-            if vid not in seen:
-                seen.add(vid)
-                ordered_ids.append(vid)
+
+    # viewCount pool + date pool (fresh uploads) to leave room after exclusions
+    for order in ("viewCount", "date"):
+        for q in category.get("queries", []):
+            try:
+                ids = search_ids(key, q, after, page_size=page_size, order=order)
+            except Exception as e:
+                print(f"[warn] search failed for {q!r} ({order}): {e}", file=sys.stderr)
+                continue
+            for vid in ids:
+                if vid not in seen:
+                    seen.add(vid)
+                    ordered_ids.append(vid)
 
     details = fetch_video_details(key, ordered_ids)
     videos = [normalize(x) for x in details]
     videos.sort(key=lambda v: v["views"], reverse=True)
-    return videos[:limit]
+
+    fresh = [v for v in videos if v["id"] not in exclude_ids]
+    skipped = len(videos) - len(fresh)
+    if skipped:
+        print(f"  skipped {skipped} already-shown in window")
+
+    picked = fresh[:limit]
+    # If pool is too thin after exclusion, top up with excluded high-view ones
+    if len(picked) < limit:
+        need = limit - len(picked)
+        picked_ids = {v["id"] for v in picked}
+        filler = [v for v in videos if v["id"] not in picked_ids][:need]
+        if filler:
+            print(f"  topped up {len(filler)} (not enough unseen candidates)")
+            picked.extend(filler)
+    return picked
 
 
 def esc(s: str) -> str:
@@ -208,6 +310,7 @@ def write_daily_html(
     date_str: str,
     sections: list[tuple[str, str, list[dict[str, Any]]]],
     days: int,
+    exclude_days: int,
 ) -> Path:
     body_parts: list[str] = []
     for cat_id, title, videos in sections:
@@ -217,7 +320,10 @@ def write_daily_html(
             f"{render_video_cards(videos)}</section>"
         )
     body = "\n".join(body_parts)
-    meta = f"生成时间（UTC）{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M')} · 近 {days} 天 · 按播放量排序"
+    meta = (
+        f"生成时间（UTC）{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M')} · "
+        f"近 {days} 天 · 按播放量排序 · 排除近 {exclude_days} 天已展示"
+    )
     html_doc = render_page(f"YouTube 日报 {date_str}", meta, body)
 
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -268,6 +374,50 @@ def write_manifest(out_dir: Path, payload: dict[str, Any]) -> None:
     )
 
 
+def extract_ids_from_html(path: Path) -> list[str]:
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    found = re.findall(r"youtube\.com/watch\?v=([a-zA-Z0-9_-]{6,})", text)
+    # preserve order, unique
+    seen: set[str] = set()
+    out: list[str] = []
+    for vid in found:
+        if vid not in seen:
+            seen.add(vid)
+            out.append(vid)
+    return out
+
+
+def seed_history_from_docs(out_dir: Path, history: dict[str, list[str]]) -> dict[str, list[str]]:
+    """Fill missing days from daily HTML / latest.json so past digests are excluded."""
+    history = dict(history)
+    for html_path in sorted(out_dir.glob("????-??-??.html")):
+        date_str = html_path.stem
+        if date_str in history and history[date_str]:
+            continue
+        ids = extract_ids_from_html(html_path)
+        if ids:
+            history[date_str] = ids
+
+    if not any(history.values()):
+        latest_path = out_dir / "latest.json"
+        if latest_path.exists():
+            try:
+                data = json.loads(latest_path.read_text(encoding="utf-8"))
+                date_str = data.get("date")
+                ids = [
+                    v["id"]
+                    for cat in (data.get("categories") or {}).values()
+                    for v in cat.get("videos") or []
+                    if v.get("id")
+                ]
+                if date_str and ids:
+                    history[date_str] = ids
+            except (json.JSONDecodeError, OSError, KeyError):
+                pass
+
+    print(f"History days loaded: {len(history)}")
+    return history
+
 def main() -> None:
     load_dotenv(ROOT / ".env")
     cfg = load_config()
@@ -275,27 +425,40 @@ def main() -> None:
 
     days = int(cfg.get("published_within_days", 30))
     limit = int(cfg.get("max_results_per_category", 15))
+    exclude_days = int(cfg.get("exclude_shown_within_days", 14))
+    page_size = int(cfg.get("search_page_size", 50))
     out_dir = ROOT / cfg.get("output_dir", "docs")
     after = published_after(days)
+    date_str = today_shanghai()
+
+    history = load_history(out_dir)
+    history = seed_history_from_docs(out_dir, history)
+    exclude_ids = recently_shown_ids(history, exclude_days, date_str)
+    print(f"Exclude window: {exclude_days} days · {len(exclude_ids)} video ids")
 
     sections: list[tuple[str, str, list[dict[str, Any]]]] = []
     manifest_cats: dict[str, Any] = {}
+    all_today_ids: list[str] = []
 
     for cat in cfg.get("categories", []):
         print(f"Fetching: {cat['title']} ...")
-        videos = collect_category(key, cat, after, limit)
+        videos = collect_category(
+            key,
+            cat,
+            after,
+            limit,
+            page_size=page_size,
+            exclude_ids=exclude_ids,
+        )
         print(f"  -> {len(videos)} videos")
         sections.append((cat["id"], cat["title"], videos))
         manifest_cats[cat["id"]] = {
             "title": cat["title"],
             "videos": videos,
         }
+        all_today_ids.extend(v["id"] for v in videos)
 
-    # Use Asia/Shanghai calendar date for filenames
-    shanghai = timezone(timedelta(hours=8))
-    date_str = datetime.now(shanghai).strftime("%Y-%m-%d")
-
-    day_path = write_daily_html(out_dir, date_str, sections, days)
+    day_path = write_daily_html(out_dir, date_str, sections, days, exclude_days)
     dates = list_daily_files(out_dir)
     write_index(out_dir, dates)
     write_manifest(
@@ -304,10 +467,13 @@ def main() -> None:
             "date": date_str,
             "generated_at": datetime.now(timezone.utc).isoformat(),
             "published_within_days": days,
+            "exclude_shown_within_days": exclude_days,
             "categories": manifest_cats,
         },
     )
+    save_history(out_dir, history, date_str, all_today_ids, exclude_days)
     print(f"Wrote {day_path}")
+    print(f"History: {out_dir / HISTORY_FILE} ({len(all_today_ids)} ids today)")
     print(f"Index: {out_dir / 'index.html'}")
 
 

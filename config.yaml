@@ -7,6 +7,13 @@ published_within_days: 30
 # Results per category
 max_results_per_category: 15
 
+# Skip videos that already appeared in digests within this many days
+# (avoids the same Top videos repeating every day)
+exclude_shown_within_days: 14
+
+# How many search hits to pull per keyword (larger = more room after dedupe)
+search_page_size: 50
+
 # Output directory (GitHub Pages serves from docs/)
 output_dir: docs
 
