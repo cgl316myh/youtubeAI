@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T02:12:36.893490+00:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T02:27:54.033565+00:00",
   "published_within_days": 30,
   "exclude_shown_within_days": 14,
   "categories": {
@@ -8,154 +8,154 @@
       "title": "AI",
       "videos": [
         {
-          "id": "A0fECnj5sas",
-          "title": "I Sent an AI to My Job Interview. So Did the Company.",
-          "channel": "Graham Dot Zip",
-          "published_at": "2026-10-12",
-          "views": 5408020,
-          "duration": "5:53",
-          "thumbnail": "https://i.ytimg.com/vi/A0fECnj5sas/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=A0fECnj5sas"
+          "id": "dAzs_rU6080",
+          "title": "I Tested The Viral Github Repo That Reverse Engineers Anything",
+          "channel": "Nick Saraev",
+          "published_at": "2026-10-10",
+          "views": 1544158,
+          "duration": "10:47",
+          "thumbnail": "https://i.ytimg.com/vi/dAzs_rU6080/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dAzs_rU6080"
         },
         {
-          "id": "lnLDjXy2kRA",
-          "title": "Jacob Coxon On Witnessing the Existential Threat of AI from the Inside | The Daily Show",
-          "channel": "The Daily Show",
-          "published_at": "2026-10-06",
-          "views": 3996620,
-          "duration": "25:59",
-          "thumbnail": "https://i.ytimg.com/vi/lnLDjXy2kRA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=lnLDjXy2kRA"
-        },
-        {
-          "id": "3TNpOD6bov8",
-          "title": "LGTM (Looks Good to Me) - Claude Opus 5.5 music video",
-          "channel": "Degenerative Pixels",
-          "published_at": "2026-10-06",
-          "views": 1194964,
-          "duration": "5:06",
-          "thumbnail": "https://i.ytimg.com/vi/3TNpOD6bov8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=3TNpOD6bov8"
-        },
-        {
-          "id": "XfdIhd1g6EI",
-          "title": "Zuckerberg’s $100 Billion Bet",
-          "channel": "Cheeky Pint",
-          "published_at": "2026-10-12",
-          "views": 965081,
-          "duration": "2:14:31",
-          "thumbnail": "https://i.ytimg.com/vi/XfdIhd1g6EI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XfdIhd1g6EI"
-        },
-        {
-          "id": "W4E5JAD5U7A",
-          "title": "How AI Agents Are Changing Business Decision-Making",
-          "channel": "Business Insider",
-          "published_at": "2026-09-24",
-          "views": 368962,
-          "duration": "4:03",
-          "thumbnail": "https://i.ytimg.com/vi/W4E5JAD5U7A/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=W4E5JAD5U7A"
-        },
-        {
-          "id": "8boLI7cUzkw",
-          "title": "Free AI Tools That Can Replace Paid AI Tools Like Claude, ChatGPT Astra, Higgsfield, Lovable",
-          "channel": "Ayushman Pandita",
-          "published_at": "2026-10-01",
-          "views": 357823,
-          "duration": "16:29",
-          "thumbnail": "https://i.ytimg.com/vi/8boLI7cUzkw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=8boLI7cUzkw"
-        },
-        {
-          "id": "hI3M_4UQoWk",
-          "title": "LIVE: Mark Zuckerberg's Meta Connect 2026 keynote",
-          "channel": "Yahoo Finance",
-          "published_at": "2026-09-24",
-          "views": 326161,
-          "duration": "55:20",
-          "thumbnail": "https://i.ytimg.com/vi/hI3M_4UQoWk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=hI3M_4UQoWk"
-        },
-        {
-          "id": "XNcKUSL1CTE",
-          "title": "The Ultimate Beginner’s Guide to Hermes Agent",
-          "channel": "Metics Media",
-          "published_at": "2026-10-08",
-          "views": 270693,
-          "duration": "1:43:37",
-          "thumbnail": "https://i.ytimg.com/vi/XNcKUSL1CTE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XNcKUSL1CTE"
-        },
-        {
-          "id": "q1IwR88mhaA",
-          "title": "The ONLY Grok Bot Tutorial You Need 2026 - How To Use Grok Bot For Beginners",
-          "channel": "Charlie Chang",
-          "published_at": "2026-09-30",
-          "views": 228091,
-          "duration": "14:01",
-          "thumbnail": "https://i.ytimg.com/vi/q1IwR88mhaA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=q1IwR88mhaA"
-        },
-        {
-          "id": "V_1Vn2WfpEY",
-          "title": "I Tested OpenAI's New Personal Assistant Agent: DOTS",
-          "channel": "Futurepedia",
-          "published_at": "2026-09-29",
-          "views": 222530,
-          "duration": "11:04",
-          "thumbnail": "https://i.ytimg.com/vi/V_1Vn2WfpEY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=V_1Vn2WfpEY"
-        },
-        {
-          "id": "LuityjCJ1Hg",
-          "title": "Use AI To Combine ANY Game With ANOTHER GAME!  - FULL WALKTHROUGH",
-          "channel": "How to Everything",
-          "published_at": "2026-10-03",
-          "views": 213504,
-          "duration": "12:25",
-          "thumbnail": "https://i.ytimg.com/vi/LuityjCJ1Hg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=LuityjCJ1Hg"
-        },
-        {
-          "id": "K1d1kHaoxUE",
-          "title": "Introducing Open Intelligent UI | The Open-Source Alternative to ChatGPT's Intelligent UI",
-          "channel": "CopilotKit",
-          "published_at": "2026-10-09",
-          "views": 212481,
-          "duration": "0:55",
-          "thumbnail": "https://i.ytimg.com/vi/K1d1kHaoxUE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=K1d1kHaoxUE"
-        },
-        {
-          "id": "8j-hR4fJywU",
-          "title": "Claude Pop -  I'm Upping My P(Doom)",
-          "channel": "OtherReality",
-          "published_at": "2026-09-22",
-          "views": 204358,
-          "duration": "2:37",
-          "thumbnail": "https://i.ytimg.com/vi/8j-hR4fJywU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=8j-hR4fJywU"
-        },
-        {
-          "id": "W3-RIZ-Ps64",
-          "title": "GPT-6 Astra + After Effects Creates Motion Graphics in Minutes!",
-          "channel": "Higgsfield AI",
+          "id": "qsmDdOi07fI",
+          "title": "I tested viral AI 3D products",
+          "channel": "Blender Guru",
           "published_at": "2026-09-21",
-          "views": 201354,
-          "duration": "11:34",
-          "thumbnail": "https://i.ytimg.com/vi/W3-RIZ-Ps64/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=W3-RIZ-Ps64"
+          "views": 966999,
+          "duration": "17:35",
+          "thumbnail": "https://i.ytimg.com/vi/qsmDdOi07fI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=qsmDdOi07fI"
         },
         {
-          "id": "gfh6l3DxHK0",
-          "title": "The Biggest ChatGPT Update Yet: Meet dots",
-          "channel": "Skill Leap AI",
-          "published_at": "2026-09-29",
-          "views": 198562,
-          "duration": "11:29",
-          "thumbnail": "https://i.ytimg.com/vi/gfh6l3DxHK0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=gfh6l3DxHK0"
+          "id": "hy8UstR2NEg",
+          "title": "Full Course: Spec-Driven Development with Coding Agents",
+          "channel": "DeepLearningAI",
+          "published_at": "2026-09-22",
+          "views": 331871,
+          "duration": "1:01:34",
+          "thumbnail": "https://i.ytimg.com/vi/hy8UstR2NEg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hy8UstR2NEg"
+        },
+        {
+          "id": "Zs3faMCDYNs",
+          "title": "Turn Claude Code Into Your AI Operating System (4 Layers)",
+          "channel": "Pav Rusovs | Automation Orbit",
+          "published_at": "2026-09-22",
+          "views": 289396,
+          "duration": "14:57",
+          "thumbnail": "https://i.ytimg.com/vi/Zs3faMCDYNs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Zs3faMCDYNs"
+        },
+        {
+          "id": "J9NQTYUP6k0",
+          "title": "How the Top 1% Use Claude Code Differently",
+          "channel": "Simon Scrapes",
+          "published_at": "2026-10-10",
+          "views": 267272,
+          "duration": "18:09",
+          "thumbnail": "https://i.ytimg.com/vi/J9NQTYUP6k0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=J9NQTYUP6k0"
+        },
+        {
+          "id": "RJl_ofd_s6w",
+          "title": "I Tried A 100% FREE AI Side Hustle For Indians (Real Results)",
+          "channel": "Aaisha Lately",
+          "published_at": "2026-10-08",
+          "views": 263816,
+          "duration": "17:33",
+          "thumbnail": "https://i.ytimg.com/vi/RJl_ofd_s6w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RJl_ofd_s6w"
+        },
+        {
+          "id": "H8FAaKeCguA",
+          "title": "How to Create Stickman Animation with AI 100% FREE",
+          "channel": "Mark Ai Guy",
+          "published_at": "2026-10-13",
+          "views": 227456,
+          "duration": "15:52",
+          "thumbnail": "https://i.ytimg.com/vi/H8FAaKeCguA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=H8FAaKeCguA"
+        },
+        {
+          "id": "xEYOy-oPH48",
+          "title": "ChatGPT n'explique pas ses calculs, il les refait !",
+          "channel": "Leo Desp",
+          "published_at": "2026-10-15",
+          "views": 216995,
+          "duration": "1:37",
+          "thumbnail": "https://i.ytimg.com/vi/xEYOy-oPH48/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xEYOy-oPH48"
+        },
+        {
+          "id": "KnkTv5-TQxk",
+          "title": "Chat Gpt Ai Se Photo Editing kaise kare 🔥 Trending Navratri Photo Edit Prompt 🙂 Garba Ai Photo Edit",
+          "channel": "Chittaranjan Editz",
+          "published_at": "2026-10-05",
+          "views": 215577,
+          "duration": "0:28",
+          "thumbnail": "https://i.ytimg.com/vi/KnkTv5-TQxk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KnkTv5-TQxk"
+        },
+        {
+          "id": "HdI_aYzgJIg",
+          "title": "Personal Agents, Clearly Explained",
+          "channel": "Jeff Su",
+          "published_at": "2026-10-13",
+          "views": 213508,
+          "duration": "15:21",
+          "thumbnail": "https://i.ytimg.com/vi/HdI_aYzgJIg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HdI_aYzgJIg"
+        },
+        {
+          "id": "IEUnv7VIYMw",
+          "title": "I found the best AI tool to analyse Big Data... (How to transform any app's data into INSANE Value!)",
+          "channel": "Sonny Sangha",
+          "published_at": "2026-10-09",
+          "views": 205954,
+          "duration": "54:27",
+          "thumbnail": "https://i.ytimg.com/vi/IEUnv7VIYMw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IEUnv7VIYMw"
+        },
+        {
+          "id": "cR0TaYikrz8",
+          "title": "How to Edit Videos with ChatGPT",
+          "channel": "Kevin Stratvert",
+          "published_at": "2026-10-07",
+          "views": 197112,
+          "duration": "8:33",
+          "thumbnail": "https://i.ytimg.com/vi/cR0TaYikrz8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cR0TaYikrz8"
+        },
+        {
+          "id": "fSilBzYdHUw",
+          "title": "ChatGPT Just Changed A LOT (Here’s What’s New)",
+          "channel": "Riley Brown",
+          "published_at": "2026-10-03",
+          "views": 187249,
+          "duration": "31:40",
+          "thumbnail": "https://i.ytimg.com/vi/fSilBzYdHUw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fSilBzYdHUw"
+        },
+        {
+          "id": "6CaQ9ZFuuKI",
+          "title": "Claude Code: The Complete AI-Native SDLC Guide",
+          "channel": "Eric Tech",
+          "published_at": "2026-09-20",
+          "views": 186715,
+          "duration": "21:03",
+          "thumbnail": "https://i.ytimg.com/vi/6CaQ9ZFuuKI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6CaQ9ZFuuKI"
+        },
+        {
+          "id": "jVhe_szlWt4",
+          "title": "life before chatgpt #funny #short #rjkrishma",
+          "channel": "yugalseditz",
+          "published_at": "2026-10-02",
+          "views": 185699,
+          "duration": "1:22",
+          "thumbnail": "https://i.ytimg.com/vi/jVhe_szlWt4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jVhe_szlWt4"
         }
       ]
     },
@@ -163,154 +163,154 @@
       "title": "VPN",
       "videos": [
         {
-          "id": "SLdMt5Df3XQ",
-          "title": "Best FREE VPN for PC in 2026 🔥 (No Sign-Up!)",
-          "channel": "Planet VPN - Free VPN",
-          "published_at": "2026-10-02",
-          "views": 8976,
-          "duration": "0:17",
-          "thumbnail": "https://i.ytimg.com/vi/SLdMt5Df3XQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SLdMt5Df3XQ"
-        },
-        {
-          "id": "XxeUEdU4Kd4",
-          "title": "Pubg flash Best VPN 🔥 | PUBG Flash Low Ping Trick? #BGMI LITE #PUBG FLASH #bgmi #gaming",
-          "channel": "𝙃𝘼𝙍𝙎𝙃𝙐𝙐𝙐_𝘽𝙃𝘼𝙄",
-          "published_at": "2026-10-06",
-          "views": 7443,
-          "duration": "0:39",
-          "thumbnail": "https://i.ytimg.com/vi/XxeUEdU4Kd4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XxeUEdU4Kd4"
-        },
-        {
-          "id": "6cP4Na7e5js",
-          "title": "أفضل VPN للمستودع🔥👌#pubgmobile #pubg #mor3eb",
-          "channel": "MOR3EB🔥",
-          "published_at": "2026-10-06",
-          "views": 5845,
-          "duration": "0:18",
-          "thumbnail": "https://i.ytimg.com/vi/6cP4Na7e5js/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6cP4Na7e5js"
-        },
-        {
-          "id": "hXavkHZKu5I",
-          "title": "#natriavpn #впн #лучшийвпн",
-          "channel": "чебуречек",
-          "published_at": "2026-10-18",
-          "views": 5782,
-          "duration": "0:49",
-          "thumbnail": "https://i.ytimg.com/vi/hXavkHZKu5I/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=hXavkHZKu5I"
-        },
-        {
-          "id": "Zvnm2DpJvfU",
-          "title": "Best VPN For Chrome Extension 2026 ✅ Tested For Speed, Ads & IP Leaks",
-          "channel": "Tutorial Stack",
-          "published_at": "2026-10-01",
-          "views": 5559,
-          "duration": "5:22",
-          "thumbnail": "https://i.ytimg.com/vi/Zvnm2DpJvfU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Zvnm2DpJvfU"
-        },
-        {
-          "id": "S_uQ7UMyM8c",
-          "title": "🔥 Best Free VPN for Firestick in 2026 — Try This First!",
-          "channel": "unboxd.tech",
-          "published_at": "2026-10-18",
-          "views": 4955,
-          "duration": "8:58",
-          "thumbnail": "https://i.ytimg.com/vi/S_uQ7UMyM8c/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=S_uQ7UMyM8c"
-        },
-        {
-          "id": "-U4I-Qf0zuE",
-          "title": "Best Ad Blocker for Android IN 3 MINUTES | My TOP 3 picks",
-          "channel": "VPNpro",
-          "published_at": "2026-09-30",
-          "views": 4874,
-          "duration": "3:12",
-          "thumbnail": "https://i.ytimg.com/vi/-U4I-Qf0zuE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-U4I-Qf0zuE"
-        },
-        {
-          "id": "wvGfohRxh5c",
-          "title": "#natriavpn #лучшийвпн",
-          "channel": "чебуречек",
-          "published_at": "2026-10-18",
-          "views": 2419,
-          "duration": "0:41",
-          "thumbnail": "https://i.ytimg.com/vi/wvGfohRxh5c/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wvGfohRxh5c"
-        },
-        {
-          "id": "egrP1d-RlDY",
-          "title": "#лучшийвпн #natriavpn",
-          "channel": "чебуречек",
-          "published_at": "2026-10-18",
-          "views": 2345,
-          "duration": "1:05",
-          "thumbnail": "https://i.ytimg.com/vi/egrP1d-RlDY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=egrP1d-RlDY"
-        },
-        {
-          "id": "LO9Ys0n7k94",
-          "title": "免费VPN,白嫖机场！2026第31期。推荐1个白嫖机场！AbyssVPN ！白嫖200GB流量！白嫖31天。公益机场，免费机场。白嫖VPN。免费翻墙节点分！。",
-          "channel": "懒人分享",
-          "published_at": "2026-10-17",
-          "views": 2310,
-          "duration": "2:45",
-          "thumbnail": "https://i.ytimg.com/vi/LO9Ys0n7k94/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=LO9Ys0n7k94"
-        },
-        {
-          "id": "jTLFOV7uuyw",
-          "title": "#natriavpn # #лучшийвпн #иванзоло",
-          "channel": "чебуречек",
-          "published_at": "2026-10-17",
-          "views": 2217,
+          "id": "eNd6k5Ks608",
+          "title": "No VPN Sign Ups on Roblox",
+          "channel": "UFD Tech",
+          "published_at": "2026-10-13",
+          "views": 199882,
           "duration": "0:32",
-          "thumbnail": "https://i.ytimg.com/vi/jTLFOV7uuyw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jTLFOV7uuyw"
+          "thumbnail": "https://i.ytimg.com/vi/eNd6k5Ks608/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=eNd6k5Ks608"
         },
         {
-          "id": "KDVC2b4zEu4",
-          "title": "Free Vpn For Android | Best Vpn For Android | How To Use Vpn In Mobile | Kobra VPN ",
-          "channel": "Creative Miraz",
-          "published_at": "2026-09-21",
-          "views": 2204,
-          "duration": "3:40",
-          "thumbnail": "https://i.ytimg.com/vi/KDVC2b4zEu4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=KDVC2b4zEu4"
+          "id": "aC8YkLDmDRg",
+          "title": "【免费白嫖】2026最佳免费VPN机场！每月免费/轻松上万，全平台，支持Gemini/GPT/奈飞/等主流流媒体！",
+          "channel": "科技猎奇",
+          "published_at": "2026-10-10",
+          "views": 7933,
+          "duration": "5:12",
+          "thumbnail": "https://i.ytimg.com/vi/aC8YkLDmDRg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aC8YkLDmDRg"
         },
         {
-          "id": "UQE6eyuyXio",
-          "title": "超高性价比机场推荐，熊猫Cloud，月付低至6元/300G，不限时套餐低至25.9元/500G，2x倍率，油管实测10W+，流媒体/AI工具全解锁",
-          "channel": "数字派",
-          "published_at": "2026-10-15",
-          "views": 2069,
-          "duration": "4:28",
-          "thumbnail": "https://i.ytimg.com/vi/UQE6eyuyXio/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UQE6eyuyXio"
+          "id": "etvemk6YxN8",
+          "title": "#natriavpn #лучшийвпн #универ",
+          "channel": "чебуречек",
+          "published_at": "2026-10-17",
+          "views": 7600,
+          "duration": "1:08",
+          "thumbnail": "https://i.ytimg.com/vi/etvemk6YxN8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=etvemk6YxN8"
         },
         {
-          "id": "rhxZkaMnWUU",
-          "title": "全球节点随便连！这款VPN加速器拥有140+高速线路，亚洲节点全面覆盖，无限流量高速体验，一个工具解决娱乐、学习、办公、跨境网络需求！",
+          "id": "zJYH_9JP9M8",
+          "title": "The BEST NordVPN coupon code 2026 | Grab an EXCLUSIVE October Deal!",
+          "channel": "VPNpro",
+          "published_at": "2026-10-19",
+          "views": 2405,
+          "duration": "2:42",
+          "thumbnail": "https://i.ytimg.com/vi/zJYH_9JP9M8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=zJYH_9JP9M8"
+        },
+        {
+          "id": "rWgHS6HLSqo",
+          "title": "An EASY Guide on HOW to get CHEAP TikTok Coins | Best VPN review",
+          "channel": "Project: Diigital",
+          "published_at": "2026-10-16",
+          "views": 1956,
+          "duration": "2:22",
+          "thumbnail": "https://i.ytimg.com/vi/rWgHS6HLSqo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rWgHS6HLSqo"
+        },
+        {
+          "id": "nXGBHZNoLq4",
+          "title": "还在为昂贵的机场订阅发愁？这款全球网络加速服务6元起！全新海外中转线路搭配VLESS协议，覆盖美国、日本、香港及多个冷门地区！多设备支持，输入大宇专属优惠码dayu666还可享受五折福利！",
           "channel": "大宇的电视分享号",
-          "published_at": "2026-09-23",
-          "views": 2061,
-          "duration": "6:21",
-          "thumbnail": "https://i.ytimg.com/vi/rhxZkaMnWUU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=rhxZkaMnWUU"
+          "published_at": "2026-10-01",
+          "views": 1895,
+          "duration": "9:33",
+          "thumbnail": "https://i.ytimg.com/vi/nXGBHZNoLq4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nXGBHZNoLq4"
         },
         {
-          "id": "_hd81wKI_Q0",
-          "title": "你用的“梯子”根本不是VPN！一文看懂两种代理的底层逻辑",
-          "channel": "科技黑洞",
+          "id": "fUdvq97BlT4",
+          "title": "NordVPN Review 2026: 20-30% Speed Drop, Worth It?",
+          "channel": "Kripesh Adwani",
+          "published_at": "2026-09-24",
+          "views": 1759,
+          "duration": "0:56",
+          "thumbnail": "https://i.ytimg.com/vi/fUdvq97BlT4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fUdvq97BlT4"
+        },
+        {
+          "id": "ZWJrVaZwvoc",
+          "title": "XUI Tunnel VPN 🔥 Fast & Secure VPN for Android | Unlimited & Free!",
+          "channel": "SiliconSleight",
+          "published_at": "2026-09-26",
+          "views": 1690,
+          "duration": "0:33",
+          "thumbnail": "https://i.ytimg.com/vi/ZWJrVaZwvoc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZWJrVaZwvoc"
+        },
+        {
+          "id": "bfD0MrR-igQ",
+          "title": "ProtonVPN coupon code | Get the BEST VPN deal - OCTOBER ONLY",
+          "channel": "Cybernews",
+          "published_at": "2026-09-28",
+          "views": 1640,
+          "duration": "1:39",
+          "thumbnail": "https://i.ytimg.com/vi/bfD0MrR-igQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=bfD0MrR-igQ"
+        },
+        {
+          "id": "tjmzmnprVxc",
+          "title": "The Only 2 VPNs You Should Be Using ‼️‼️ #vpn #flock #privacy #alternative #tracking",
+          "channel": "Micah Dot Tech",
+          "published_at": "2026-09-23",
+          "views": 1589,
+          "duration": "1:02",
+          "thumbnail": "https://i.ytimg.com/vi/tjmzmnprVxc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tjmzmnprVxc"
+        },
+        {
+          "id": "boQ7O4eQOyM",
+          "title": "Surfshark vs Proton VPN 2026 - Privacy & Speed Tested",
+          "channel": "VPNMike",
+          "published_at": "2026-10-03",
+          "views": 1546,
+          "duration": "1:30",
+          "thumbnail": "https://i.ytimg.com/vi/boQ7O4eQOyM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=boQ7O4eQOyM"
+        },
+        {
+          "id": "tpnN_E1zRDg",
+          "title": "超高性价比机场推荐，月付低至11元/500G,年付低至21元128G每月，油管实测33万+，流媒体/AI工具全解锁。",
+          "channel": "小白科技",
+          "published_at": "2026-10-17",
+          "views": 1543,
+          "duration": "4:09",
+          "thumbnail": "https://i.ytimg.com/vi/tpnN_E1zRDg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tpnN_E1zRDg"
+        },
+        {
+          "id": "C5ZbFFkolV4",
+          "title": "Does NordVPN Work in China: Full Performance Analysis",
+          "channel": "VPN Ninja",
+          "published_at": "2026-09-30",
+          "views": 1525,
+          "duration": "4:58",
+          "thumbnail": "https://i.ytimg.com/vi/C5ZbFFkolV4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=C5ZbFFkolV4"
+        },
+        {
+          "id": "foDyzEzdVzw",
+          "title": "Best VPN 2026: NordVPN vs ExpressVPN vs Surfshark vs Proton VPN vs HMA",
+          "channel": "BestDigiTools",
+          "published_at": "2026-10-14",
+          "views": 1517,
+          "duration": "0:32",
+          "thumbnail": "https://i.ytimg.com/vi/foDyzEzdVzw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=foDyzEzdVzw"
+        },
+        {
+          "id": "EFngXxmu1Rk",
+          "title": "Why I switched to this FREE iPhone VPN 📲 #review #vpn #iphone",
+          "channel": "Planet VPN - Free VPN",
           "published_at": "2026-09-22",
-          "views": 2020,
-          "duration": "4:48",
-          "thumbnail": "https://i.ytimg.com/vi/_hd81wKI_Q0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=_hd81wKI_Q0"
+          "views": 1516,
+          "duration": "0:32",
+          "thumbnail": "https://i.ytimg.com/vi/EFngXxmu1Rk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EFngXxmu1Rk"
         }
       ]
     },
@@ -318,154 +318,154 @@
       "title": "云服务器",
       "videos": [
         {
-          "id": "9cbVTZ06Xrw",
-          "title": "Das Ende von Cloud-Abos",
-          "channel": "Kevin Chromik",
-          "published_at": "2026-09-25",
-          "views": 142140,
-          "duration": "22:30",
-          "thumbnail": "https://i.ytimg.com/vi/9cbVTZ06Xrw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9cbVTZ06Xrw"
+          "id": "P6Mr5c0T1DQ",
+          "title": "Monté mi propia nube con este pequeño servidor",
+          "channel": "midudev",
+          "published_at": "2026-09-22",
+          "views": 154496,
+          "duration": "19:51",
+          "thumbnail": "https://i.ytimg.com/vi/P6Mr5c0T1DQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=P6Mr5c0T1DQ"
         },
         {
-          "id": "WXsTCJl7sU4",
-          "title": "They're Banning THESE Home Servers",
-          "channel": "Loyal Moses",
-          "published_at": "2026-09-24",
-          "views": 135475,
-          "duration": "7:57",
-          "thumbnail": "https://i.ytimg.com/vi/WXsTCJl7sU4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=WXsTCJl7sU4"
+          "id": "hoxv-4gN4Ls",
+          "title": "How to Control Your Homelab Remotely 👨🏾‍💻 (SSH Explained)",
+          "channel": "GG_Sheed",
+          "published_at": "2026-10-13",
+          "views": 112921,
+          "duration": "1:15",
+          "thumbnail": "https://i.ytimg.com/vi/hoxv-4gN4Ls/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hoxv-4gN4Ls"
         },
         {
-          "id": "EHUCb92gUg0",
-          "title": "AWS Cloud Training Full Course for Beginners (Better Than Any Bootcamp)",
-          "channel": "Tech With Soleyman",
-          "published_at": "2026-10-14",
-          "views": 87701,
-          "duration": "8:10:42",
-          "thumbnail": "https://i.ytimg.com/vi/EHUCb92gUg0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EHUCb92gUg0"
+          "id": "mWEVxcIPwTc",
+          "title": "Gbsell.com is real or fake let's take it out. | Scam or geniune?",
+          "channel": "Chandann editz",
+          "published_at": "2026-10-08",
+          "views": 8864,
+          "duration": "0:59",
+          "thumbnail": "https://i.ytimg.com/vi/mWEVxcIPwTc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mWEVxcIPwTc"
         },
         {
-          "id": "R8eXal7wbPw",
-          "title": "Deploy Your Trading Algo On a Live Server | Episode 10 |  AI + Algo Trading Series |  @TradeHull",
-          "channel": "TradeHull",
-          "published_at": "2026-09-24",
-          "views": 9238,
-          "duration": "6:36",
-          "thumbnail": "https://i.ytimg.com/vi/R8eXal7wbPw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=R8eXal7wbPw"
+          "id": "iIsCR0F-Epo",
+          "title": "Connect Claude to Microsoft Fabric Using the Fabric Core MCP Server (Full Setup)",
+          "channel": "RADACAD",
+          "published_at": "2026-09-22",
+          "views": 7078,
+          "duration": "19:21",
+          "thumbnail": "https://i.ytimg.com/vi/iIsCR0F-Epo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iIsCR0F-Epo"
         },
         {
-          "id": "w6ouUUeqAL8",
-          "title": "Free cloud from old laptop #diytech #accidentalEngineering #yemcube #tech",
-          "channel": " Yemcube Tech",
-          "published_at": "2026-10-04",
-          "views": 4226,
-          "duration": "1:52",
-          "thumbnail": "https://i.ytimg.com/vi/w6ouUUeqAL8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=w6ouUUeqAL8"
+          "id": "l6keG0n3FNY",
+          "title": "СВОЙ СЕРВЕР ПРОТИВ ОБЛАКА. ЧТО ДЕШЕВЛЕ В 2026 ГОДУ?",
+          "channel": "Сервер Центр",
+          "published_at": "2026-10-19",
+          "views": 2455,
+          "duration": "1:03",
+          "thumbnail": "https://i.ytimg.com/vi/l6keG0n3FNY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=l6keG0n3FNY"
         },
         {
-          "id": "KoLeRn3oRyg",
-          "title": "Check Out This NEW Minecraft Survival Server!",
-          "channel": "CloudWorld",
+          "id": "pr95OvO_1gQ",
+          "title": "I Built My Own JARVIS with GPT 6 Astra (Runs 24/7)",
+          "channel": "Damian Malliaros",
+          "published_at": "2026-10-19",
+          "views": 1521,
+          "duration": "22:18",
+          "thumbnail": "https://i.ytimg.com/vi/pr95OvO_1gQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pr95OvO_1gQ"
+        },
+        {
+          "id": "tTijlxRGsnk",
+          "title": "VPS Kya Hota Hai | AI Se App Kaise Banaye | AI Se Website Kaise Banaye | AI Se Software Kaise Banaye",
+          "channel": "4AM Builds",
+          "published_at": "2026-10-02",
+          "views": 1345,
+          "duration": "0:44",
+          "thumbnail": "https://i.ytimg.com/vi/tTijlxRGsnk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tTijlxRGsnk"
+        },
+        {
+          "id": "pxE2BTT3oX0",
+          "title": "☁️ LIGHT CLOUD HOSTING ⚡ | FREE MINECRAFT SERVER HOSTING! 🚀 #auraedit #minecraft #minecraftreels",
+          "channel": "NotGmxYT",
+          "published_at": "2026-10-19",
+          "views": 1331,
+          "duration": "0:20",
+          "thumbnail": "https://i.ytimg.com/vi/pxE2BTT3oX0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pxE2BTT3oX0"
+        },
+        {
+          "id": "J3rJ9TwTuiI",
+          "title": "Ein Netzwerkpaket bricht aus jeder VM aus.. #cybersecurity #linux #kvm #server #security",
+          "channel": "Fehler800",
           "published_at": "2026-10-18",
-          "views": 2321,
-          "duration": "0:12",
-          "thumbnail": "https://i.ytimg.com/vi/KoLeRn3oRyg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=KoLeRn3oRyg"
+          "views": 1060,
+          "duration": "1:20",
+          "thumbnail": "https://i.ytimg.com/vi/J3rJ9TwTuiI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=J3rJ9TwTuiI"
         },
         {
-          "id": "PpqXRU9n-is",
-          "title": "GBSell.com Real or Fake? | GBSell Review | Safe or Not? Full Details ",
-          "channel": "VK Jainav",
-          "published_at": "2026-10-09",
-          "views": 1718,
-          "duration": "4:10",
-          "thumbnail": "https://i.ytimg.com/vi/PpqXRU9n-is/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=PpqXRU9n-is"
+          "id": "1-szWuIXvHM",
+          "title": "Como Ter O Servidor VPS Grátis Mais Absurdo da Internet!",
+          "channel": "Lucas Oliveira Dev",
+          "published_at": "2026-10-07",
+          "views": 1056,
+          "duration": "8:11",
+          "thumbnail": "https://i.ytimg.com/vi/1-szWuIXvHM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1-szWuIXvHM"
         },
         {
-          "id": "RlwL1hBHbAk",
-          "title": "Where does Netflix really stream from?",
-          "channel": "Request City",
-          "published_at": "2026-10-18",
-          "views": 1484,
-          "duration": "0:31",
-          "thumbnail": "https://i.ytimg.com/vi/RlwL1hBHbAk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=RlwL1hBHbAk"
+          "id": "bbnvkVr9c-0",
+          "title": "AWS Cloud Practitioner (CLF-C02) | Part 3 | AWS for Beginners",
+          "channel": "VulpisLab",
+          "published_at": "2026-10-12",
+          "views": 1046,
+          "duration": "1:24:46",
+          "thumbnail": "https://i.ytimg.com/vi/bbnvkVr9c-0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=bbnvkVr9c-0"
         },
         {
-          "id": "XShcF-I9Q7Q",
-          "title": "Does everything you type to AI go to a server?",
-          "channel": "Under The Prompt YT",
-          "published_at": "2026-10-17",
-          "views": 1297,
-          "duration": "0:36",
-          "thumbnail": "https://i.ytimg.com/vi/XShcF-I9Q7Q/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XShcF-I9Q7Q"
+          "id": "z22Ipe6wCXo",
+          "title": "Hostinger VPS服务器深度评测，欧美机房真实测速与性能分析、值得推荐",
+          "channel": "工程師Tim",
+          "published_at": "2026-10-12",
+          "views": 1001,
+          "duration": "6:24",
+          "thumbnail": "https://i.ytimg.com/vi/z22Ipe6wCXo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=z22Ipe6wCXo"
         },
         {
-          "id": "akRQ_YT6C4g",
-          "title": "Gimana Kalau Semua Orang Buka WhatsApp Barengan? 📱🏟️ #shorts",
-          "channel": "Adzi Bilal",
-          "published_at": "2026-10-18",
-          "views": 1276,
-          "duration": "0:33",
-          "thumbnail": "https://i.ytimg.com/vi/akRQ_YT6C4g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=akRQ_YT6C4g"
+          "id": "DLshQtlRJ7s",
+          "title": "Avast Antivirus Review — Hype or Real Protection in 2026?",
+          "channel": "VPNMike",
+          "published_at": "2026-09-30",
+          "views": 925,
+          "duration": "1:06",
+          "thumbnail": "https://i.ytimg.com/vi/DLshQtlRJ7s/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DLshQtlRJ7s"
         },
         {
-          "id": "VFWbj2AS6m4",
-          "title": "Poser ces 3 questions avant de miser sur le cloud",
-          "channel": "chillotech",
-          "published_at": "2026-10-17",
-          "views": 1241,
-          "duration": "1:44",
-          "thumbnail": "https://i.ytimg.com/vi/VFWbj2AS6m4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=VFWbj2AS6m4"
+          "id": "xzHNlOCRcX0",
+          "title": "Hostinger Review 2026: My 5 Years Experience + Up to 95% OFF! 🚀",
+          "channel": "Web Hosting Master",
+          "published_at": "2026-09-28",
+          "views": 683,
+          "duration": "9:47",
+          "thumbnail": "https://i.ytimg.com/vi/xzHNlOCRcX0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xzHNlOCRcX0"
         },
         {
-          "id": "30K2hov67dE",
-          "title": "バケモノ級にAWSが使えるエンジニア → 実はこのコミュニティで学びました  #エンジニア #お金 #エンジニア採用担当 #インフラエンジニア #ビジネス #セカンドキャリア #仕事効率化",
-          "channel": "ねずみさん家。のインフラエンジニア道場",
-          "published_at": "2026-09-26",
-          "views": 1170,
-          "duration": "2:10",
-          "thumbnail": "https://i.ytimg.com/vi/30K2hov67dE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=30K2hov67dE"
-        },
-        {
-          "id": "j46thSPFako",
-          "title": "Hackers Revived Robot Vacuums a Company Killed #hacking #shorts #cybersecurity #robot #ai",
-          "channel": "snardito hacked",
-          "published_at": "2026-10-18",
-          "views": 1111,
-          "duration": "2:36",
-          "thumbnail": "https://i.ytimg.com/vi/j46thSPFako/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=j46thSPFako"
-        },
-        {
-          "id": "ZJhIyL7307A",
-          "title": "Зачем крупнейший файловый архив отказался от чужого облака?",
-          "channel": "JustHost",
-          "published_at": "2026-10-17",
-          "views": 1068,
-          "duration": "0:31",
-          "thumbnail": "https://i.ytimg.com/vi/ZJhIyL7307A/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZJhIyL7307A"
-        },
-        {
-          "id": "N7ln1RHjn3A",
-          "title": "Day 282 - New Website. Almost There. 👀 #homelab #server #hosting #vps #webdev #noronetwork",
-          "channel": "Noronetwork",
-          "published_at": "2026-10-17",
-          "views": 1040,
-          "duration": "0:10",
-          "thumbnail": "https://i.ytimg.com/vi/N7ln1RHjn3A/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=N7ln1RHjn3A"
+          "id": "5NasTgMMvHI",
+          "title": "Gb Sell App Withdrawal Problem || Gb Sell VPS Calalog Buy करें? ॥ Gb Sell Real Or Fake , Processing",
+          "channel": "Megha Tips",
+          "published_at": "2026-10-13",
+          "views": 666,
+          "duration": "3:12",
+          "thumbnail": "https://i.ytimg.com/vi/5NasTgMMvHI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5NasTgMMvHI"
         }
       ]
     }
