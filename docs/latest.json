@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T05:33:53.316084+00:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T04:58:23.449313+00:00",
   "published_within_days": 30,
   "exclude_shown_within_days": 14,
   "categories": {
@@ -8,154 +8,154 @@
       "title": "AI",
       "videos": [
         {
-          "id": "WPj3aQ-xxpI",
-          "title": "Claude reverse engineered my 32-year-old Jeep. Then it started controlling it.",
-          "channel": "Muhammad Zulali",
-          "published_at": "2026-11-10",
-          "views": 1558028,
-          "duration": "11:42",
-          "thumbnail": "https://i.ytimg.com/vi/WPj3aQ-xxpI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
-        },
-        {
-          "id": "ZWh7Zze88T0",
-          "title": "AI vs Software Engineers 😂 | ChatGPT & Claude Taking Over? #Shorts",
-          "channel": "SofticEra - Institute & Software House",
-          "published_at": "2026-10-27",
-          "views": 938500,
-          "duration": "0:21",
-          "thumbnail": "https://i.ytimg.com/vi/ZWh7Zze88T0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZWh7Zze88T0"
-        },
-        {
-          "id": "GMcLy4Gn7GU",
-          "title": "People Are Using Claude for Wild Things Now",
-          "channel": "NextWork",
-          "published_at": "2026-11-05",
-          "views": 925370,
-          "duration": "13:49",
-          "thumbnail": "https://i.ytimg.com/vi/GMcLy4Gn7GU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GMcLy4Gn7GU"
-        },
-        {
-          "id": "SMxVYixLNn0",
-          "title": "I Gave 5 AI Agents $100 to Start a Business",
-          "channel": "Tucker",
-          "published_at": "2026-10-25",
-          "views": 918300,
-          "duration": "8:22",
-          "thumbnail": "https://i.ytimg.com/vi/SMxVYixLNn0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SMxVYixLNn0"
-        },
-        {
-          "id": "U5zQzSqywEY",
-          "title": "Artificial Intelligence Full Course for Beginners (FREE) | 12 Hours | Complete AI Course",
-          "channel": "The iScale",
-          "published_at": "2026-10-26",
-          "views": 892067,
-          "duration": "11:44:21",
-          "thumbnail": "https://i.ytimg.com/vi/U5zQzSqywEY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=U5zQzSqywEY"
-        },
-        {
-          "id": "ckw_amuisog",
-          "title": "This Makes Any Android TV 10x Faster!",
-          "channel": "Beebom",
-          "published_at": "2026-10-25",
-          "views": 730602,
-          "duration": "4:08",
-          "thumbnail": "https://i.ytimg.com/vi/ckw_amuisog/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ckw_amuisog"
-        },
-        {
-          "id": "pM3quubXvpA",
-          "title": "Claude Fable 5.2 Just Vibe Coded Windows?",
-          "channel": "FUTC",
-          "published_at": "2026-11-10",
-          "views": 601493,
-          "duration": "0:59",
-          "thumbnail": "https://i.ytimg.com/vi/pM3quubXvpA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=pM3quubXvpA"
-        },
-        {
-          "id": "bc7QaDmLmoA",
-          "title": "I Tested Uncensored AI... It Should Probably Be Illegal…",
-          "channel": "Jack Roberts",
-          "published_at": "2026-11-07",
-          "views": 429961,
-          "duration": "22:43",
-          "thumbnail": "https://i.ytimg.com/vi/bc7QaDmLmoA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=bc7QaDmLmoA"
-        },
-        {
-          "id": "u2AXS9KHUro",
-          "title": "Claude FREE PLAN 🤑 Make Free Videos in Claude Motion Graphics #claude #ai",
-          "channel": "Raj Photo Editing and Much More",
-          "published_at": "2026-11-02",
-          "views": 321657,
-          "duration": "8:09",
-          "thumbnail": "https://i.ytimg.com/vi/u2AXS9KHUro/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=u2AXS9KHUro"
-        },
-        {
-          "id": "gQvzE6U6azQ",
-          "title": "Capcut Cinematic Video | Editing | Tutorial | #tutorial #capcut #cinematic #editing",
-          "channel": "Rocky 1.0",
-          "published_at": "2026-10-30",
-          "views": 280508,
-          "duration": "0:11",
-          "thumbnail": "https://i.ytimg.com/vi/gQvzE6U6azQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=gQvzE6U6azQ"
-        },
-        {
-          "id": "29F96QJEf6o",
-          "title": "借我 40 分鐘，讓我告訴你關於 Claude Code 你需要知道的所有觀念",
-          "channel": "Gary Chen",
-          "published_at": "2026-10-22",
-          "views": 268442,
-          "duration": "40:15",
-          "thumbnail": "https://i.ytimg.com/vi/29F96QJEf6o/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=29F96QJEf6o"
-        },
-        {
-          "id": "hnCoQ5wB-GU",
-          "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
-          "channel": "How I AI",
+          "id": "nEaJMdM1djM",
+          "title": "Did the AI bubble just pop?",
+          "channel": "Fireship",
           "published_at": "2026-10-28",
-          "views": 260964,
-          "duration": "35:10",
-          "thumbnail": "https://i.ytimg.com/vi/hnCoQ5wB-GU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
+          "views": 2709929,
+          "duration": "5:25",
+          "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nEaJMdM1djM"
         },
         {
-          "id": "-fgNFJCQZGk",
-          "title": "How to Make Viral Stickman Animated Shorts Using FREE AI TOOLS (NO CLAUDE CODE)",
-          "channel": "Mark Ai Guy",
-          "published_at": "2026-11-09",
-          "views": 256143,
-          "duration": "12:25",
-          "thumbnail": "https://i.ytimg.com/vi/-fgNFJCQZGk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-fgNFJCQZGk"
+          "id": "GjxeW_hzVBA",
+          "title": "Researchers Left an AI Alone on a Virtual Island.",
+          "channel": "Leo Cui, Ph.D., CFA ",
+          "published_at": "2026-10-20",
+          "views": 1988597,
+          "duration": "15:50",
+          "thumbnail": "https://i.ytimg.com/vi/GjxeW_hzVBA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GjxeW_hzVBA"
         },
         {
-          "id": "2RFgO_ccb9M",
-          "title": "6 BEST AI Businesses To Start Before 2027 (For Beginners)",
-          "channel": "Jordan Welch",
-          "published_at": "2026-11-02",
-          "views": 254784,
-          "duration": "29:36",
-          "thumbnail": "https://i.ytimg.com/vi/2RFgO_ccb9M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2RFgO_ccb9M"
+          "id": "kASh3fgA0l4",
+          "title": "AI Agents Allowed",
+          "channel": "UFD Tech",
+          "published_at": "2026-10-23",
+          "views": 859948,
+          "duration": "0:38",
+          "thumbnail": "https://i.ytimg.com/vi/kASh3fgA0l4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kASh3fgA0l4"
         },
         {
-          "id": "UOZJbOO6Hmw",
-          "title": "ChatGPT tricks",
-          "channel": "Santa Talks",
-          "published_at": "2026-11-12",
-          "views": 251708,
-          "duration": "0:12",
-          "thumbnail": "https://i.ytimg.com/vi/UOZJbOO6Hmw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UOZJbOO6Hmw"
+          "id": "ZzDRSxx3zgY",
+          "title": "I Built A Business From Scratch Only Following Claude’s Advice",
+          "channel": "Mark Tilbury",
+          "published_at": "2026-11-16",
+          "views": 706287,
+          "duration": "27:55",
+          "thumbnail": "https://i.ytimg.com/vi/ZzDRSxx3zgY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZzDRSxx3zgY"
+        },
+        {
+          "id": "ehf3Qj7xyQc",
+          "title": "ช่วยหมาหรือโจร!! #ai  #claude #chatgpt #viral #loveme #spiderman",
+          "channel": "InvisibleStax",
+          "published_at": "2026-10-26",
+          "views": 588893,
+          "duration": "0:44",
+          "thumbnail": "https://i.ytimg.com/vi/ehf3Qj7xyQc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ehf3Qj7xyQc"
+        },
+        {
+          "id": "82Xv_bPVtpU",
+          "title": "Bernie Sanders Grills Claude AI Over Data Privacy And Surveillance In Viral Anthropic Conversation",
+          "channel": "CRUX",
+          "published_at": "2026-11-16",
+          "views": 513620,
+          "duration": "9:13",
+          "thumbnail": "https://i.ytimg.com/vi/82Xv_bPVtpU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=82Xv_bPVtpU"
+        },
+        {
+          "id": "dCS4er4Xcjo",
+          "title": "CLAUDE AI Changed My Android TV’s Vibe! (Full Tutorial - HINDI)",
+          "channel": "Sarcastic Sindhi",
+          "published_at": "2026-10-25",
+          "views": 402168,
+          "duration": "12:41",
+          "thumbnail": "https://i.ytimg.com/vi/dCS4er4Xcjo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dCS4er4Xcjo"
+        },
+        {
+          "id": "zsCGS-Yzjnw",
+          "title": "UI Libraries for Claude Code (Ban the AI Look)",
+          "channel": "Griffin Wooldridge",
+          "published_at": "2026-11-07",
+          "views": 383543,
+          "duration": "4:27",
+          "thumbnail": "https://i.ytimg.com/vi/zsCGS-Yzjnw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=zsCGS-Yzjnw"
+        },
+        {
+          "id": "cDb-wPq0Iyk",
+          "title": "Claude Opus 5.5: How To Make Motion Graphics",
+          "channel": "Rourke",
+          "published_at": "2026-11-06",
+          "views": 369470,
+          "duration": "17:59",
+          "thumbnail": "https://i.ytimg.com/vi/cDb-wPq0Iyk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cDb-wPq0Iyk"
+        },
+        {
+          "id": "1j79e8QPJLw",
+          "title": "How AI Agents Can Hack Everything You Own | SBI Data Leak | Dark Web | Amit Dubey Podcast",
+          "channel": "Switch",
+          "published_at": "2026-11-14",
+          "views": 367177,
+          "duration": "1:14:21",
+          "thumbnail": "https://i.ytimg.com/vi/1j79e8QPJLw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1j79e8QPJLw"
+        },
+        {
+          "id": "U-AdnIz1jIk",
+          "title": "Automate Your CapCut Editing With Claude (Step by Step + Free Skill)",
+          "channel": "Matt Loui",
+          "published_at": "2026-10-23",
+          "views": 334245,
+          "duration": "9:40",
+          "thumbnail": "https://i.ytimg.com/vi/U-AdnIz1jIk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=U-AdnIz1jIk"
+        },
+        {
+          "id": "OD7ARs2dzVg",
+          "title": "WNA CINA INCAR KTP WARGA UNTUK JADI DATA CLAUDE Ai",
+          "channel": "Kamar JERI",
+          "published_at": "2026-11-15",
+          "views": 325350,
+          "duration": "29:11",
+          "thumbnail": "https://i.ytimg.com/vi/OD7ARs2dzVg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=OD7ARs2dzVg"
+        },
+        {
+          "id": "EG4yKGT7DEc",
+          "title": "Ho Trasformato Claude in un Trader Automatico 24/7",
+          "channel": "Giuseppe Castagna",
+          "published_at": "2026-10-23",
+          "views": 321560,
+          "duration": "15:24",
+          "thumbnail": "https://i.ytimg.com/vi/EG4yKGT7DEc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EG4yKGT7DEc"
+        },
+        {
+          "id": "a6ZApl1ZEY0",
+          "title": "I Found a way To Make Faceless YouTube Shorts for free (No subscription)",
+          "channel": "Nafay 3D",
+          "published_at": "2026-11-04",
+          "views": 312365,
+          "duration": "11:13",
+          "thumbnail": "https://i.ytimg.com/vi/a6ZApl1ZEY0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=a6ZApl1ZEY0"
+        },
+        {
+          "id": "tcb5q_6jwvY",
+          "title": "Every Claude 2.0 Concept Explained for Normal People",
+          "channel": "Nate Herk | AI Automation",
+          "published_at": "2026-10-30",
+          "views": 301656,
+          "duration": "21:40",
+          "thumbnail": "https://i.ytimg.com/vi/tcb5q_6jwvY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tcb5q_6jwvY"
         }
       ]
     },
@@ -163,154 +163,154 @@
       "title": "VPN",
       "videos": [
         {
-          "id": "cL272sK-Jp4",
-          "title": "Finally Pubg Mobile Flash Is Here | Download With New Changes ",
-          "channel": "Glucon Gaming",
+          "id": "b2QtntNGUjo",
+          "title": "NEW FREE FireStick App Just DROPPED! It's an ABSOLUTE MONSTER! 😱",
+          "channel": "newtech",
           "published_at": "2026-11-13",
-          "views": 36807,
-          "duration": "8:47",
-          "thumbnail": "https://i.ytimg.com/vi/cL272sK-Jp4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=cL272sK-Jp4"
+          "views": 110019,
+          "duration": "21:26",
+          "thumbnail": "https://i.ytimg.com/vi/b2QtntNGUjo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=b2QtntNGUjo"
         },
         {
-          "id": "O0mtP7olwn4",
-          "title": "Só pode haver uma melhor VPN | NordVPN x Surfshark x Proton VPN",
-          "channel": "Cybernews Brasil",
-          "published_at": "2026-10-23",
-          "views": 16998,
-          "duration": "17:25",
-          "thumbnail": "https://i.ytimg.com/vi/O0mtP7olwn4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=O0mtP7olwn4"
+          "id": "N5LBdRjerEE",
+          "title": "Сравнил 100 ВПН-ов для РОССИИ: что РЕАЛЬНО работает в 2026 году?",
+          "channel": "Дэви",
+          "published_at": "2026-11-02",
+          "views": 41193,
+          "duration": "12:47",
+          "thumbnail": "https://i.ytimg.com/vi/N5LBdRjerEE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=N5LBdRjerEE"
         },
         {
-          "id": "F7Tswm-Fk9g",
-          "title": "2026最强Mitce机场恢复了！全新订阅面板！机场推荐丨最新翻墙教程丨永不跑路机场",
-          "channel": "Eighteen科技",
-          "published_at": "2026-10-31",
-          "views": 14150,
-          "duration": "4:12",
-          "thumbnail": "https://i.ytimg.com/vi/F7Tswm-Fk9g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=F7Tswm-Fk9g"
+          "id": "YgP6vHpt-rs",
+          "title": "تطبيق VPN جديد للهواتف وAndroid TV وGoogle TV | تجربة الخوادم والسرعة",
+          "channel": "محطة المعلومات | INFO STATION",
+          "published_at": "2026-11-02",
+          "views": 10072,
+          "duration": "9:57",
+          "thumbnail": "https://i.ytimg.com/vi/YgP6vHpt-rs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YgP6vHpt-rs"
         },
         {
-          "id": "S-ux428ifCU",
-          "title": "2026高速机场推荐，高速翻墙，免费试用！支持(Windows电脑/安卓手机/mac/ios) 高速vpn节点，hysteria2 v2ray机场订阅 | clash verge机场节点购买",
-          "channel": "科技分享",
-          "published_at": "2026-10-31",
-          "views": 10173,
-          "duration": "8:10",
-          "thumbnail": "https://i.ytimg.com/vi/S-ux428ifCU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=S-ux428ifCU"
+          "id": "wC6aqLMN4LM",
+          "title": "ON CLASSE LES 6 RECRUES DU REAL MADRID (DE LA MEILLEURE À LA PIRE !)",
+          "channel": "Le Journal du Real",
+          "published_at": "2026-11-17",
+          "views": 7609,
+          "duration": "52:13",
+          "thumbnail": "https://i.ytimg.com/vi/wC6aqLMN4LM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wC6aqLMN4LM"
         },
         {
-          "id": "LBARqJWOrgc",
-          "title": "Лучший ВПН для ПК — какие ДЕШЕВЫЕ VPN еще работают?",
-          "channel": "FINLAYER",
-          "published_at": "2026-10-30",
-          "views": 7220,
-          "duration": "6:44",
-          "thumbnail": "https://i.ytimg.com/vi/LBARqJWOrgc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=LBARqJWOrgc"
-        },
-        {
-          "id": "uapFTWH-3Ls",
-          "title": "⚠️ Выключил vpn для банка – а потом сам себя сдал?! | #shorts #приватность #vpn",
-          "channel": "Люди PRO",
-          "published_at": "2026-11-15",
-          "views": 6625,
-          "duration": "0:47",
-          "thumbnail": "https://i.ytimg.com/vi/uapFTWH-3Ls/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=uapFTWH-3Ls"
-        },
-        {
-          "id": "zeks1YeMTXU",
-          "title": "【最新高速机场推荐】高速翻墙！支持ChatGPT、Gemini、TikTok丨v2rayN、clash meta、clash verge 高速节点订阅丨小火箭节点推荐丨机场测评2026",
-          "channel": "科技分享",
-          "published_at": "2026-11-14",
-          "views": 6394,
-          "duration": "7:54",
-          "thumbnail": "https://i.ytimg.com/vi/zeks1YeMTXU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=zeks1YeMTXU"
-        },
-        {
-          "id": "mgVhqSVD00s",
-          "title": "Best VPN 2026 ✅ Tested & Compared (Don't Make These 5 Mistakes)",
-          "channel": "Tutorial Stack",
+          "id": "PCD73U5_yPI",
+          "title": "HWID Spoofer Tutorial - How To Fix Fortnite VPN KICK & HWID Ban (2026)",
+          "channel": "syringe",
           "published_at": "2026-11-13",
-          "views": 6252,
-          "duration": "10:38",
-          "thumbnail": "https://i.ytimg.com/vi/mgVhqSVD00s/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=mgVhqSVD00s"
+          "views": 5371,
+          "duration": "4:47",
+          "thumbnail": "https://i.ytimg.com/vi/PCD73U5_yPI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=PCD73U5_yPI"
         },
         {
-          "id": "i_ErAPTsY8k",
-          "title": "Best FREE VPN for Windows Laptop/PC | NO LOGIN NEEDED! How to Download & Install VPN in Laptop/PC",
-          "channel": "Hitech Community",
-          "published_at": "2026-10-22",
-          "views": 5348,
-          "duration": "3:09",
-          "thumbnail": "https://i.ytimg.com/vi/i_ErAPTsY8k/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=i_ErAPTsY8k"
+          "id": "6LBRVGtCcRM",
+          "title": "TweeVPN - лучший ВПН, ищи бота в тг - @TweeVPNBot  #тренды #юмор #рекомендации",
+          "channel": "Tweelechka",
+          "published_at": "2026-11-17",
+          "views": 4858,
+          "duration": "0:08",
+          "thumbnail": "https://i.ytimg.com/vi/6LBRVGtCcRM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6LBRVGtCcRM"
         },
         {
-          "id": "8ZZNJQgv6Gs",
-          "title": "Meilleurs codes promo VPN et avis ! | Top 3 des meilleurs VPN et offres (BLACK FRIDAY)",
-          "channel": "Cybernews en Français",
-          "published_at": "2026-11-05",
-          "views": 4724,
-          "duration": "3:31",
-          "thumbnail": "https://i.ytimg.com/vi/8ZZNJQgv6Gs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=8ZZNJQgv6Gs"
-        },
-        {
-          "id": "Oz4y7VcDLqM",
-          "title": "NordVPN Coupon Code 🔥 BLACK FRIDAY Deal & Biggest Discount!",
-          "channel": "TechScout",
-          "published_at": "2026-11-13",
-          "views": 3571,
-          "duration": "2:54",
-          "thumbnail": "https://i.ytimg.com/vi/Oz4y7VcDLqM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Oz4y7VcDLqM"
-        },
-        {
-          "id": "sm8fQfWvZoM",
-          "title": "Proton VPN 免费版手动选择节点教程 | PC电脑端科学上网指南",
-          "channel": "多伦多不多了",
-          "published_at": "2026-11-03",
-          "views": 3410,
-          "duration": "4:40",
-          "thumbnail": "https://i.ytimg.com/vi/sm8fQfWvZoM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=sm8fQfWvZoM"
-        },
-        {
-          "id": "2sElmfqHzvU",
-          "title": "最强老牌稳定5年机场！轻松千兆宽带＋30WKbps   全场半价 海外中转 双协议＋冷/热/土耳其/阿根廷节点 Netflix、Disney+等主流AI流媒体全支持！",
-          "channel": "科技猎奇",
-          "published_at": "2026-11-03",
-          "views": 3222,
-          "duration": "6:11",
-          "thumbnail": "https://i.ytimg.com/vi/2sElmfqHzvU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2sElmfqHzvU"
-        },
-        {
-          "id": "Sc_MMADvE9g",
-          "title": "How to Install a VPN on Your Router (2026 Easy Method)",
-          "channel": "Quilomberos",
-          "published_at": "2026-10-30",
-          "views": 3103,
-          "duration": "4:26",
-          "thumbnail": "https://i.ytimg.com/vi/Sc_MMADvE9g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Sc_MMADvE9g"
-        },
-        {
-          "id": "_Rmbam2dEc0",
-          "title": "Stake VPN – Best VPNs to Access Stake.com from Any Country",
-          "channel": "WINCLUB",
+          "id": "cBLNlFhqniE",
+          "title": "BEST VPN FOR FREE LOBBY IN Bl0 / #tiktokgaming  #cod  #vxper #warzone  #mw4  #dlss5",
+          "channel": "Vxper",
           "published_at": "2026-10-27",
-          "views": 3067,
-          "duration": "4:39",
-          "thumbnail": "https://i.ytimg.com/vi/_Rmbam2dEc0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=_Rmbam2dEc0"
+          "views": 4189,
+          "duration": "0:28",
+          "thumbnail": "https://i.ytimg.com/vi/cBLNlFhqniE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cBLNlFhqniE"
+        },
+        {
+          "id": "171nQ0YM4eY",
+          "title": "Best Vpn For Pubg Mobile Flash | Pubg Mobile Flash Best Vpn | Best Vpn | Pubg Mobile flash",
+          "channel": "GoD Rachit YT",
+          "published_at": "2026-11-14",
+          "views": 3718,
+          "duration": "1:15",
+          "thumbnail": "https://i.ytimg.com/vi/171nQ0YM4eY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=171nQ0YM4eY"
+        },
+        {
+          "id": "B4UdNmZkXvQ",
+          "title": "Premium Proton VPN coupon code | The BEST Black Friday deals",
+          "channel": "Cybernews Reviews",
+          "published_at": "2026-11-17",
+          "views": 3394,
+          "duration": "1:19",
+          "thumbnail": "https://i.ytimg.com/vi/B4UdNmZkXvQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=B4UdNmZkXvQ"
+        },
+        {
+          "id": "D-IJn9rDxGU",
+          "title": "Proton VPN Coupon Code 2026 — Get 75% OFF + The Best Black Friday Deal",
+          "channel": "geminiLIZ",
+          "published_at": "2026-11-14",
+          "views": 3121,
+          "duration": "2:15",
+          "thumbnail": "https://i.ytimg.com/vi/D-IJn9rDxGU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=D-IJn9rDxGU"
+        },
+        {
+          "id": "FTUeAK4FlHg",
+          "title": "Proton VPN Coupon Code | Exclusive Black Friday Deal",
+          "channel": "VPN Coupon Code",
+          "published_at": "2026-11-06",
+          "views": 2965,
+          "duration": "0:49",
+          "thumbnail": "https://i.ytimg.com/vi/FTUeAK4FlHg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FTUeAK4FlHg"
+        },
+        {
+          "id": "LVzpdjOpqdA",
+          "title": "最佳Windows VPN——HideMe: 独家Bolt加速技术，轻松突破大陆运营商QoS限速！无需注册，也可永久免费使用！| 2026 HideMe VPN翻墙实测和入门指南",
+          "channel": "大宇时空 DYSK",
+          "published_at": "2026-11-12",
+          "views": 2785,
+          "duration": "8:04",
+          "thumbnail": "https://i.ytimg.com/vi/LVzpdjOpqdA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=LVzpdjOpqdA"
+        },
+        {
+          "id": "IEUSdVJS9eU",
+          "title": "【2026最新】真正不限速的免费VPN推荐：0门槛免注册秒连4K！iOS/安卓通用，主力节点断连时的救命备用方案",
+          "channel": "青居",
+          "published_at": "2026-11-08",
+          "views": 2617,
+          "duration": "2:41",
+          "thumbnail": "https://i.ytimg.com/vi/IEUSdVJS9eU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IEUSdVJS9eU"
+        },
+        {
+          "id": "GcUEVDwVfO0",
+          "title": "【机场末日】你的网络快被掐断了！机场测评",
+          "channel": "科技小七Jony",
+          "published_at": "2026-11-09",
+          "views": 2476,
+          "duration": "8:27",
+          "thumbnail": "https://i.ytimg.com/vi/GcUEVDwVfO0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GcUEVDwVfO0"
+        },
+        {
+          "id": "98rACpVW84E",
+          "title": "The BEST NordVPN coupon code | Grab NordVPN Black Friday DEAL",
+          "channel": "Cybernews Reviews",
+          "published_at": "2026-11-16",
+          "views": 2270,
+          "duration": "1:27",
+          "thumbnail": "https://i.ytimg.com/vi/98rACpVW84E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=98rACpVW84E"
         }
       ]
     },
@@ -318,154 +318,154 @@
       "title": "云服务器",
       "videos": [
         {
-          "id": "y9YXhEEwAwc",
-          "title": "Apple's Local AI App for Mac Is Coming (Harbor)",
-          "channel": "Kai",
-          "published_at": "2026-11-12",
-          "views": 120441,
-          "duration": "25:37",
-          "thumbnail": "https://i.ytimg.com/vi/y9YXhEEwAwc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=y9YXhEEwAwc"
+          "id": "NjujtlZ7QOw",
+          "title": "5 Self-Hosted File Sync Apps: What’s Worth It (and what isn’t)",
+          "channel": "WunderTech",
+          "published_at": "2026-10-22",
+          "views": 120984,
+          "duration": "25:17",
+          "thumbnail": "https://i.ytimg.com/vi/NjujtlZ7QOw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NjujtlZ7QOw"
         },
         {
-          "id": "5GUW4XYomms",
-          "title": "Stop Bayar Hosting! Bikin Server Website Sendiri Pakai STB Bekas, aaPanel Terbaru, Pemula Pasti Bisa",
-          "channel": "NanangMrk",
-          "published_at": "2026-11-01",
-          "views": 50647,
-          "duration": "29:50",
-          "thumbnail": "https://i.ytimg.com/vi/5GUW4XYomms/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=5GUW4XYomms"
+          "id": "Ax2uY3a_bJE",
+          "title": "VẼ BÁNH PUDDING TRỨNG bằng Màu Lụa Dầu siêu Mượt🍮Review Văn Phòng Phẩm✨ #janenguyen #vpp",
+          "channel": "Jane Nguyen",
+          "published_at": "2026-10-26",
+          "views": 113220,
+          "duration": "0:59",
+          "thumbnail": "https://i.ytimg.com/vi/Ax2uY3a_bJE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ax2uY3a_bJE"
         },
         {
-          "id": "TgHPYrtyA5g",
-          "title": "Claude без VPN: свой сервер в Европе за 7-8 долларов",
-          "channel": "Максим Самусь | Нейросети и AI-агенты для бизнеса",
-          "published_at": "2026-10-21",
-          "views": 16195,
-          "duration": "1:21",
-          "thumbnail": "https://i.ytimg.com/vi/TgHPYrtyA5g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=TgHPYrtyA5g"
+          "id": "uPkr5ohPX64",
+          "title": "Come Sostituire i Tuoi Abbonamenti con un Raspberry Pi:",
+          "channel": "Giuseppe Castagna",
+          "published_at": "2026-11-10",
+          "views": 78277,
+          "duration": "21:47",
+          "thumbnail": "https://i.ytimg.com/vi/uPkr5ohPX64/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=uPkr5ohPX64"
         },
         {
-          "id": "y2x4BQ-llew",
-          "title": "Is THIS The Best 24/7 FREE Minecraft Server Host ? Make 24/7 Lifetime Free Minecraft Server 🟢",
-          "channel": "VISHONOUS",
+          "id": "cVoYDDZ7qRQ",
+          "title": "Sổ Vẽ Squishy, Vẽ Kí Hoạ giấy Mềm mại Deli🍉🎨☀️Review văn phòng phẩm✨ #janenguyen #vpp",
+          "channel": "Jane Nguyen",
           "published_at": "2026-11-04",
-          "views": 10983,
-          "duration": "8:06",
-          "thumbnail": "https://i.ytimg.com/vi/y2x4BQ-llew/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=y2x4BQ-llew"
+          "views": 71598,
+          "duration": "1:00",
+          "thumbnail": "https://i.ytimg.com/vi/cVoYDDZ7qRQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cVoYDDZ7qRQ"
         },
         {
-          "id": "UhncCXXrrQU",
-          "title": "Why M365 Servers Kept Dying",
-          "channel": "The Tech Info",
-          "published_at": "2026-11-13",
-          "views": 4569,
-          "duration": "2:05",
-          "thumbnail": "https://i.ytimg.com/vi/UhncCXXrrQU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UhncCXXrrQU"
+          "id": "UCntvwxghu0",
+          "title": "Bút Gel Tối Giản tuyệt đẹp Minimalist Thiên Long✍️Review Bút văn phòng phẩm✨ #janenguyen #vpp",
+          "channel": "Jane Nguyen",
+          "published_at": "2026-11-04",
+          "views": 23522,
+          "duration": "0:58",
+          "thumbnail": "https://i.ytimg.com/vi/UCntvwxghu0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=UCntvwxghu0"
         },
         {
-          "id": "jhUKUM0I4aQ",
-          "title": "Google Drive വേണ്ട! സ്വന്തമായി 4TB Personal Cloud Server നിർമ്മിക്കാം! 🔥 | Nextcloud | Nexa System",
-          "channel": "Nexa System",
-          "published_at": "2026-11-16",
-          "views": 2507,
-          "duration": "8:58",
-          "thumbnail": "https://i.ytimg.com/vi/jhUKUM0I4aQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jhUKUM0I4aQ"
+          "id": "jEp3nlvgw10",
+          "title": "My Local AI Built A Home Server 4X Faster Than I Could, Running On The Olares One",
+          "channel": "Michael Klements",
+          "published_at": "2026-11-02",
+          "views": 9675,
+          "duration": "12:12",
+          "thumbnail": "https://i.ytimg.com/vi/jEp3nlvgw10/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jEp3nlvgw10"
         },
         {
-          "id": "2vGOVgsdkO8",
-          "title": "This Might Be the BEST Minecraft Survival Server!",
+          "id": "U2-IeEAPJo4",
+          "title": "Hostinger Coupon Code 2026 | Hostinger VPS | Hostinger Black Friday Deal + EXCLUSIVE 20% Discount",
+          "channel": "Offers Collection",
+          "published_at": "2026-11-17",
+          "views": 3829,
+          "duration": "1:50",
+          "thumbnail": "https://i.ytimg.com/vi/U2-IeEAPJo4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=U2-IeEAPJo4"
+        },
+        {
+          "id": "4g1JW6AbbB8",
+          "title": "Jtti 香港 CN2 深度测评：免备案、极速延迟，一键部署高性能代理节点",
+          "channel": "猿猿松",
+          "published_at": "2026-10-28",
+          "views": 1748,
+          "duration": "10:05",
+          "thumbnail": "https://i.ytimg.com/vi/4g1JW6AbbB8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4g1JW6AbbB8"
+        },
+        {
+          "id": "trW4nvbhsfg",
+          "title": "Best Minecraft Survival Server to Join!",
           "channel": "CloudWorld",
-          "published_at": "2026-11-16",
-          "views": 1759,
-          "duration": "0:21",
-          "thumbnail": "https://i.ytimg.com/vi/2vGOVgsdkO8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2vGOVgsdkO8"
+          "published_at": "2026-11-17",
+          "views": 1271,
+          "duration": "0:13",
+          "thumbnail": "https://i.ytimg.com/vi/trW4nvbhsfg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=trW4nvbhsfg"
         },
         {
-          "id": "6w3bO0Vo8C0",
-          "title": "The Beautiful Tragedy of Crymelight and its Frustrating Combat #rpg #roguelike #vn #anime #gaming",
-          "channel": "Final Weapon",
+          "id": "wsgnizl8Lk0",
+          "title": "Jika Semua Server Cloud Mati Bersamaan! ☁️💥#teknologi #faktaunik",
+          "channel": "Batas Nalar",
+          "published_at": "2026-11-17",
+          "views": 1239,
+          "duration": "0:49",
+          "thumbnail": "https://i.ytimg.com/vi/wsgnizl8Lk0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wsgnizl8Lk0"
+        },
+        {
+          "id": "nD-dYm-_6KE",
+          "title": "data internet disimpan dimana ya?🤔",
+          "channel": "MUELEK",
+          "published_at": "2026-11-17",
+          "views": 1159,
+          "duration": "0:41",
+          "thumbnail": "https://i.ytimg.com/vi/nD-dYm-_6KE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nD-dYm-_6KE"
+        },
+        {
+          "id": "dUyDiCS1c0g",
+          "title": "What Is Cloud☁️, Building a Cloud🖥️ || #shorts",
+          "channel": "Tech Info HUB",
+          "published_at": "2026-11-17",
+          "views": 1033,
+          "duration": "1:23",
+          "thumbnail": "https://i.ytimg.com/vi/dUyDiCS1c0g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dUyDiCS1c0g"
+        },
+        {
+          "id": "Bvzm_cAg0sU",
+          "title": "Docker Explained Simply | From Your Laptop to AWS EC2",
+          "channel": "bongoDev",
+          "published_at": "2026-11-15",
+          "views": 1025,
+          "duration": "1:09:31",
+          "thumbnail": "https://i.ytimg.com/vi/Bvzm_cAg0sU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Bvzm_cAg0sU"
+        },
+        {
+          "id": "F1DsuV3LlWU",
+          "title": "Goodbye Cloud Subscriptions! 👋 Build Your Own Private Cloud",
+          "channel": "Just Read Bytes",
+          "published_at": "2026-11-17",
+          "views": 891,
+          "duration": "0:35",
+          "thumbnail": "https://i.ytimg.com/vi/F1DsuV3LlWU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=F1DsuV3LlWU"
+        },
+        {
+          "id": "nRU2rrlZo6Y",
+          "title": "Nên tắt hay bật tự mở khoá khi về P trên VinFast VF3",
+          "channel": "Phong Đoàn Review",
           "published_at": "2026-11-03",
-          "views": 1498,
-          "duration": "1:12",
-          "thumbnail": "https://i.ytimg.com/vi/6w3bO0Vo8C0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6w3bO0Vo8C0"
-        },
-        {
-          "id": "9_qrYdDp41w",
-          "title": "How to Pass Vest Markets Account ? | Vest Market Account Review",
-          "channel": "Parida Futures",
-          "published_at": "2026-11-14",
-          "views": 1313,
-          "duration": "1:21",
-          "thumbnail": "https://i.ytimg.com/vi/9_qrYdDp41w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9_qrYdDp41w"
-        },
-        {
-          "id": "yK5F-6i1HgM",
-          "title": "Хмарний сервер) #shorts #анекдот #українськийгумор #дід #баба  #жарти #сервер #omniflash #veo3",
-          "channel": "Козак AI",
-          "published_at": "2026-11-16",
-          "views": 1262,
-          "duration": "0:11",
-          "thumbnail": "https://i.ytimg.com/vi/yK5F-6i1HgM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=yK5F-6i1HgM"
-        },
-        {
-          "id": "lBfTvgQbWSk",
-          "title": "Sebenarnya File di Cloud Disimpan di Mana? #shorts",
-          "channel": "Bentar Paham",
-          "published_at": "2026-11-16",
-          "views": 1024,
-          "duration": "0:51",
-          "thumbnail": "https://i.ytimg.com/vi/lBfTvgQbWSk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=lBfTvgQbWSk"
-        },
-        {
-          "id": "XbM4sfk2p0I",
-          "title": "🔥 FREE Cloud Engineer Training | Linux + AWS from Scratch | Hands-On for Beginners",
-          "channel": "Madhukar Reddy",
-          "published_at": "2026-11-16",
-          "views": 1011,
-          "duration": "34:20",
-          "thumbnail": "https://i.ytimg.com/vi/XbM4sfk2p0I/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XbM4sfk2p0I"
-        },
-        {
-          "id": "AOY0Jne_IwM",
-          "title": "AWS Cheat Sheet: What You Actually Need to Know #aws #cloud #programming #tutorial",
-          "channel": "Pynade",
-          "published_at": "2026-10-24",
-          "views": 937,
-          "duration": "0:10",
-          "thumbnail": "https://i.ytimg.com/vi/AOY0Jne_IwM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=AOY0Jne_IwM"
-        },
-        {
-          "id": "OtueHnXAmgw",
-          "title": "Como Ter Um Servidor Próprio Gratis Com 12 GB RAM",
-          "channel": "Ludevi",
-          "published_at": "2026-11-01",
-          "views": 922,
-          "duration": "8:21",
-          "thumbnail": "https://i.ytimg.com/vi/OtueHnXAmgw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OtueHnXAmgw"
-        },
-        {
-          "id": "Vps-tlJye5U",
-          "title": "Brightz RideBrightz Bike Lights: 75 Lumens Rechargeable Review",
-          "channel": "Manch0s",
-          "published_at": "2026-11-16",
           "views": 877,
-          "duration": "1:02",
-          "thumbnail": "https://i.ytimg.com/vi/Vps-tlJye5U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Vps-tlJye5U"
+          "duration": "1:23",
+          "thumbnail": "https://i.ytimg.com/vi/nRU2rrlZo6Y/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nRU2rrlZo6Y"
         }
       ]
     }
